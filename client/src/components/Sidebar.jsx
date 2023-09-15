@@ -62,7 +62,7 @@ const navItems = [
     icon: null,
   },
   {
-    text: "SeniorTalks",
+    text: "Senior Talks",
     navigateTo: "senior-talks",
     icon: <SchoolIcon />,
   },
@@ -89,7 +89,6 @@ const Sidebar = ({
 
   useEffect(() => {
     setActive(pathname.substring(1));
-    
   }, []);
 
   return (
@@ -132,7 +131,7 @@ const Sidebar = ({
               <FlexBetween color={theme.palette.secondary.main}>
                 <Box display="flex" alignItems="center" gap="0.5rem">
                   <Typography variant="h2" fontWeight={"bold"}>
-                    Campus Compass
+                    Saarathi
                   </Typography>
                 </Box>
                 {!isNonMobile && (
@@ -230,7 +229,11 @@ const Sidebar = ({
             </List>
           </Box>
 
-          <Box position={"fixed"} bottom={"1rem"}>
+          <Box
+            position={"fixed"}
+            bottom={"1rem"}
+            display={isNonMobile ? "" : "none"}
+          >
             <Divider />
             <FlexBetween
               textTransform={"none"}

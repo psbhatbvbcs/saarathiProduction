@@ -77,7 +77,7 @@ const ComingSoon = () => {
                 textAlign: "center",
             }}
             >
-                Coming Soon on Campus Compass
+                Coming Soon on Saarathi
             </Typography>
 
             <CustomBox>
@@ -128,7 +128,7 @@ const ComingSoon = () => {
                         <Typography variant='body2' sx={{
                             fontWeight: "bold", fontSize: "18px", color: "#0689FF", my: 1
                         }}>
-                            An extension to help you save text, screenshots and important documents from anywhere on the internet, directly to your Campus Compass profile
+                            An extension to help you save text, screenshots and important documents from anywhere on the internet, directly to your Saarathi profile
                         </Typography>
                     </Box>
                 </GuideBox>

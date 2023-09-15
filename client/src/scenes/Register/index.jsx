@@ -145,7 +145,7 @@ const RegisterPage = () => {
 
   useEffect(() => {
 
-    document.title = "CC | Sign Up"
+    document.title = "Saarathi | Sign Up"
 
     async function fetchColleges() {
       try {

@@ -124,7 +124,7 @@ const ResetPassword = () => {
     const { token } = useParams();
 
     useEffect(() => {
-        document.title = "CC | Reset Password"
+        document.title = "Saarathi | Reset Password"
     }, [])
 
     const handleShowPassword = () => {

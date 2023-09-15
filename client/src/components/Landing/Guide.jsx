@@ -1,168 +1,230 @@
-import React from 'react'
-import { Box, styled, Typography } from "@mui/material"
+import React from "react";
+import { Box, styled, Typography } from "@mui/material";
 
-import booksIcon from "components/Landing/assets/books.png"
-import clubIcon from "components/Landing/assets/clubs.png"
-import seniorIcon from "components/Landing/assets/senior.png"
+import booksIcon from "components/Landing/assets/books.png";
+import clubIcon from "components/Landing/assets/clubs.png";
+import seniorIcon from "components/Landing/assets/senior.png";
 
-import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
-import CustomButton from './CustomButton'
-
+import ArrowRightAltIcon from "@mui/icons-material/ArrowRightAlt";
+import CustomButton from "./CustomButton";
 
 const Guide = () => {
+  const CustomBox = styled(Box)(({ theme }) => ({
+    width: "30%",
+    [theme.breakpoints.down("md")]: {
+      width: "85%",
+    },
+  }));
 
-    const CustomBox = styled(Box)(({ theme }) => ({
-        width: "30%",
-        [theme.breakpoints.down("md")]: {
-            width: "85%"
-        }
-    }))
+  const GuidesBox = styled(Box)(({ theme }) => ({
+    display: "flex",
+    justifyContent: "space-around",
+    width: "70%",
+    marginTop: theme.spacing(5),
+    marginBottom: theme.spacing(5),
+    [theme.breakpoints.down("md")]: {
+      width: "100%",
+    },
+    [theme.breakpoints.down("sm")]: {
+      marginBottom: "0",
+      flexDirection: "column",
+    },
+  }));
 
-    const GuidesBox = styled(Box)(({ theme }) => ({
-        display: "flex",
-        justifyContent: "space-around",
-        width: "70%",
-        marginTop: theme.spacing(5),
-        marginBottom: theme.spacing(5),
-        [theme.breakpoints.down("md")]: {
-            width: "100%",
-        },
-        [theme.breakpoints.down("sm")]: {
-            marginBottom: "0",
-            flexDirection: "column",
-        }
-    }))
+  const GuideBox = styled(Box)(({ theme }) => ({
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    "&:hover": {
+      backgroundColor: "rgba(0, 0, 0, 0.10)", // Darker background on hover
+      cursor: "pointer", // Change the mouse icon
+    },
+    padding: "15px",
+    borderRadius: "15px",
+    marginTop: theme.spacing(5),
+    [theme.breakpoints.down("sm")]: {
+      margin: theme.spacing(2, 0, 2, 0),
+    },
+  }));
 
-    const GuideBox = styled(Box)(({ theme }) => ({
+  return (
+    <Box
+      sx={{
         display: "flex",
         flexDirection: "column",
+        justifyContent: "center",
         alignItems: "center",
-        '&:hover': {
-            backgroundColor: 'rgba(0, 0, 0, 0.10)', // Darker background on hover
-            cursor: 'pointer', // Change the mouse icon
-        },
-        padding: "15px",
-        borderRadius: "15px",
-        marginTop: theme.spacing(5),
-        [theme.breakpoints.down("sm")]: {
-            margin: theme.spacing(2, 0, 2, 0),
-        }
-    }))
+        mt: "25px",
+        mb: 10,
+      }}
+    >
+      <div
+        style={{
+          width: "5%",
+          height: "5px",
+          backgroundColor: "#000339",
+          margin: "0 auto",
+        }}
+      ></div>
+      <Typography
+        variant="h3"
+        sx={{
+          fontSize: "35px",
+          fontWeight: "bold",
+          color: "#000339",
+          my: 3,
+        }}
+      >
+        How it works?
+      </Typography>
 
-    return (
-        <Box
-            sx={{
-                display: "flex",
-                flexDirection: "column",
-                justifyContent: "center",
-                alignItems: "center",
-                mt: "25px",
-                mb: 10,
-            }}
+      <CustomBox>
+        <Typography
+          variant="body2"
+          sx={{
+            fontSize: "16px",
+            color: "#5A6473",
+            fontWeight: "500",
+            textAlign: "center",
+          }}
         >
-            <div style={{
-                width: "5%",
-                height: "5px",
-                backgroundColor: "#000339",
-                margin: "0 auto"
-            }}>
-            </div>
-            <Typography variant='h3' sx={{
-                fontSize: "35px",
-                fontWeight: "bold",
-                color: "#000339",
-                my: 3
+          Everything you need to stay updated on campus! <br />
+          Notes, Semester Wise and Senior Insights? We have everything!
+        </Typography>
+      </CustomBox>
+
+      <GuidesBox>
+        <GuideBox
+          onClick={() =>
+            window.open(
+              "https://scribehow.com/shared/How_to_Access_Course_Notes_on_Saarathime__RGmQtEJTQxyf0kqL0YuOBQ",
+              "_blank"
+            )
+          }
+        >
+          <img src={booksIcon} alt="buy" />
+          <Typography
+            variant="body2"
+            sx={{
+              fontWeight: "500",
+              fontSize: "20px",
+              color: "#3B3c45",
+              my: 1,
             }}
+          >
+            Get your Notes!
+          </Typography>
+          <Box
+            sx={{
+              cursor: "pointer",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <Typography
+              variant="body2"
+              sx={{
+                fontWeight: "bold",
+                fontSize: "14px",
+                color: "#0689FF",
+                my: 1,
+              }}
             >
-                How it works?
+              How to download?
             </Typography>
+            <ArrowRightAltIcon style={{ color: "#0689FF" }} />
+          </Box>
+        </GuideBox>
 
-            <CustomBox>
-                <Typography variant='body2' sx={{
-                    fontSize: "16px",
-                    color: "#5A6473",
-                    fontWeight: "500",
-                    textAlign: "center",
-                }}>
-                    Everything you need to stay updated on campus! <br />Notes, Semester Wise and Senior Insights? We have everything!
-                </Typography>
-            </CustomBox>
+        <GuideBox
+          onClick={() =>
+            window.open(
+              "https://scribehow.com/shared/Accessing_Sem_Wise_Insights_on_Saarathi_Dashboard__Ae9jak-JRlSvUw4CvEWYQA",
+              "_blank"
+            )
+          }
+        >
+          <img src={clubIcon} alt="buy" />
+          <Typography
+            variant="body2"
+            sx={{
+              fontWeight: "500",
+              fontSize: "20px",
+              color: "#3B3c45",
+              my: 1,
+            }}
+          >
+            Semester Insights
+          </Typography>
+          <Box
+            sx={{
+              cursor: "pointer",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <Typography
+              variant="body2"
+              sx={{
+                fontWeight: "bold",
+                fontSize: "14px",
+                color: "#0689FF",
+                my: 1,
+              }}
+            >
+              How to find?
+            </Typography>
+            <ArrowRightAltIcon style={{ color: "#0689FF" }} />
+          </Box>
+        </GuideBox>
 
-            <GuidesBox>
-                <GuideBox>
-                    <img src={booksIcon} alt="buy" />
-                    <Typography variant='body2' sx={{
-                        fontWeight: "500", fontSize: "20px", color: "#3B3c45", my: 1
-                    }}>
-                        Get Exam Ready!
-                    </Typography>
-                    <Box
-                        sx={{
-                            cursor: "pointer",
-                            display: "flex",
-                            justifyContent: "center",
-                            alignItems: "center",
-                        }}
-                    >
-                        <Typography variant='body2' sx={{
-                            fontWeight: "bold", fontSize: "14px", color: "#0689FF", my: 1
-                        }}>
-                            How to download?
-                        </Typography>
-                        <ArrowRightAltIcon style={{ color: "#0689FF" }} />
-                    </Box>
-                </GuideBox>
+        <GuideBox
+          onClick={() =>
+            window.open(
+              "https://scribehow.com/shared/How_to_Access_and_Navigate_Through_Saarathi_Dashboard__EN2nFmd9S2K_5PRdOeX0KQ",
+              "_blank"
+            )
+          }
+        >
+          <img src={seniorIcon} alt="buy" />
+          <Typography
+            variant="body2"
+            sx={{
+              fontWeight: "500",
+              fontSize: "20px",
+              color: "#3B3c45",
+              my: 1,
+            }}
+          >
+            Senior Talks
+          </Typography>
+          <Box
+            sx={{
+              cursor: "pointer",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <Typography
+              variant="body2"
+              sx={{
+                fontWeight: "bold",
+                fontSize: "14px",
+                color: "#0689FF",
+                my: 1,
+              }}
+            >
+              Where to read?
+            </Typography>
+            <ArrowRightAltIcon style={{ color: "#0689FF" }} />
+          </Box>
+        </GuideBox>
+      </GuidesBox>
+    </Box>
+  );
+};
 
-                <GuideBox>
-                    <img src={clubIcon} alt="buy" />
-                    <Typography variant='body2' sx={{
-                        fontWeight: "500", fontSize: "20px", color: "#3B3c45", my: 1
-                    }}>
-                        Semester Insights
-                    </Typography>
-                    <Box
-                        sx={{
-                            cursor: "pointer",
-                            display: "flex",
-                            justifyContent: "center",
-                            alignItems: "center",
-                        }}
-                    >
-                        <Typography variant='body2' sx={{
-                            fontWeight: "bold", fontSize: "14px", color: "#0689FF", my: 1
-                        }}>
-                            How to find?
-                        </Typography>
-                        <ArrowRightAltIcon style={{ color: "#0689FF" }} />
-                    </Box>
-                </GuideBox>
-
-                <GuideBox>
-                    <img src={seniorIcon} alt="buy" />
-                    <Typography variant='body2' sx={{
-                        fontWeight: "500", fontSize: "20px", color: "#3B3c45", my: 1
-                    }}>
-                        Senior Talks
-                    </Typography>
-                    <Box
-                        sx={{
-                            cursor: "pointer",
-                            display: "flex",
-                            justifyContent: "center",
-                            alignItems: "center",
-                        }}
-                    >
-                        <Typography variant='body2' sx={{
-                            fontWeight: "bold", fontSize: "14px", color: "#0689FF", my: 1
-                        }}>
-                            Where to read?
-                        </Typography>
-                        <ArrowRightAltIcon style={{ color: "#0689FF" }} />
-                    </Box>
-                </GuideBox>
-            </GuidesBox>
-        </Box>
-    )
-}
-
-export default Guide
+export default Guide;

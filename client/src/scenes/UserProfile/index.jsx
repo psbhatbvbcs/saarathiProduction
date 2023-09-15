@@ -29,7 +29,7 @@ const UserProfile = () => {
   const [user, setUser] = useState({});
 
   useEffect(() => {
-    document.title = "CC | User Profile";
+    document.title = "Saarathi | User Profile";
   }, []);
 
   useEffect(() => {

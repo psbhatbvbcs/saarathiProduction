@@ -17,7 +17,7 @@ const Landing = () => {
   const isAuthenticated = useSelector((state) => state.app.isAuthenticated)
 
   useEffect(() => {
-    document.title = "CC | Home"
+    document.title = "Saarathi | Home"
   }, [])
 
   if (isAuthenticated) {

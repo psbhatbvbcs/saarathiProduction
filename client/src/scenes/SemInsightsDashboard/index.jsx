@@ -23,7 +23,7 @@ const SemInsightsDashboard = () => {
   const mode = useSelector((state) => state.app.mode);
 
   useEffect(() => {
-    document.title = `CC | Semester Insights`
+    document.title = `Saarathi | Semester Insights`
   }, [])
 
 

@@ -7,17 +7,14 @@ import { useNavigate } from 'react-router-dom';
 import { StyledDashboard } from 'components/BackgroundBox';
 import { useSelector } from 'react-redux';
 
-
-
-
 const Title = styled(Typography)(({ theme }) => ({
-    fontSize: "40px",
-    color: "primary",
-    fontWeight: "bold",
-    margin: theme.spacing(0, 0, 1, 4),
-    [theme.breakpoints.down("sm")]: {
-        fontSize: "40px",
-    }
+  fontSize: "32px",
+  color: "primary",
+  fontWeight: "bold",
+  margin: theme.spacing(0, 0, 1, 4),
+  [theme.breakpoints.down("sm")]: {
+    fontSize: "24px",
+  },
 }));
 
 const PapersDashboard = () => {
@@ -30,7 +27,7 @@ const PapersDashboard = () => {
 
 
     useEffect(() => {
-        document.title = "CC | Previous Year Papers"
+        document.title = "Saarathi | Previous Year Papers"
     }, [])
 
 

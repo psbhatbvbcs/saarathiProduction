@@ -1,5 +1,5 @@
 import { useSelector } from 'react-redux'
-import { Box, Card, CardActionArea, CardContent, Container, Grid, IconButton, Typography } from '@mui/material'
+import { Box, Card, CardActionArea, CardContent, Container, Grid, IconButton, Typography, useMediaQuery, } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import ViewDocumentIcon from "@mui/icons-material/OpenInNew"
 import DownloadDocumentIcon from "@mui/icons-material/FileDownload"
@@ -12,7 +12,9 @@ const NotesBySubject = ({ notes, semester, subject }) => {
     const [notesByUnit, setNotesByUnit] = useState({})
     const server = useSelector((state) => state.app.server);
     const mode = useSelector((state) => state.app.mode);
-
+    const isNonMobile = !useMediaQuery(
+    "(max-width:600px) or (max-height:600px) or (orientation: portrait)"
+  );
 
     useEffect(() => {
         const sortedNotes = notes?.filter((file) => file.semester === semester && file.subject === subject);
@@ -76,7 +78,7 @@ const NotesBySubject = ({ notes, semester, subject }) => {
                         <Typography variant="h4" fontWeight={600} my={"20px"} sx={{ textDecoration: "2px underline" }}>
                             Unit {unit}
                         </Typography>
-                        <Grid container spacing={6}>
+                        <Grid container spacing={6} padding={isNonMobile ? "" : 4} >
                             {notesByUnit[unit]?.map((item, index) => (
                                 <Grid item xs={10} sm={6} md={3} key={index}>
                                     <Card

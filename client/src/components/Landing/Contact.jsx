@@ -33,7 +33,7 @@ const CustomBox = styled(Box)(({ theme }) => ({
 }));
 
 const handleEmailCopy = () => {
-  const email = "campusscompasscontact@gmail.com";
+  const email = "admsaarathi@gmail.com";
   navigator.clipboard
     .writeText(email)
     .then(() => {
@@ -46,7 +46,7 @@ const handleEmailCopy = () => {
 
 const Contact = () => {
   useEffect(() => {
-    document.title = "CC | Contact";
+    document.title = "Saarathi | Contact";
   }, []);
 
   return (
@@ -70,7 +70,7 @@ const Contact = () => {
                 alignItems: "center",
               }}
             >
-              Contact us on campusscompasscontact@gmail.com
+              Contact us on admsaarathi@gmail.com
               <IconButton onClick={handleEmailCopy} color="primary">
                 <FileCopyIcon />
               </IconButton>

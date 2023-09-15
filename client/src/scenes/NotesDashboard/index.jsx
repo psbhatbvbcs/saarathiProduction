@@ -9,12 +9,12 @@ import { useSelector } from 'react-redux';
 import { BirdAnimation } from 'components/FlyingBird';
 
 const Title = styled(Typography)(({ theme }) => ({
-    fontSize: "40px",
+    fontSize: "36px",
     color: "primary",
     fontWeight: "bold",
     margin: theme.spacing(0, 0, 1, 4),
     [theme.breakpoints.down("sm")]: {
-        fontSize: "40px",
+        fontSize: "36px",
     }
 }));
 
@@ -33,7 +33,7 @@ const NotesDashboard = () => {
     
 
     useEffect(() => {
-        document.title = "CC | Notes"
+        document.title = "Saarathi | Notes"
     }, [])
 
 

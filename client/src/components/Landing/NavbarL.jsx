@@ -111,6 +111,7 @@ export const NavbarL = () => {
   const NavbarLogo = styled("img")(({ theme }) => ({
     cursor: "pointer",
     mixBlendMode: "multiply",
+    width: "200px",
     [theme.breakpoints.down("md")]: {
       display: "none",
     },

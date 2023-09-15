@@ -51,7 +51,7 @@ const About = () => {
     "(max-width:600px) or (max-height:600px) or (orientation: portrait)"
   );
   useEffect(() => {
-    document.title = "CC | About";
+    document.title = "Saarathi | About";
   }, []);
 
   return (
@@ -60,7 +60,7 @@ const About = () => {
       <Container sx={{ paddingBottom: "4rem" }}>
         <StyledBox height={"auto"}>
           <Typography variant="h4" textAlign={"center"} fontWeight="bold">
-            Campus Compass was brought to you by
+            Saarathi was brought to you by
           </Typography>
           <Box width={"100%"} display={"flex"}>
             <Box
@@ -170,7 +170,7 @@ const About = () => {
             Why We Did It
           </Typography>
           <Typography variant="body1">
-            At Campus Compass, we are passionate about helping university
+            At Saarathi, we are passionate about helping university
             students succeed in their academic journey. We understand the
             challenges and pressures that come with higher education, and we
             wanted to create a platform that eases these burdens.
@@ -180,7 +180,7 @@ const About = () => {
             How We Did It
           </Typography>
           <Typography variant="body1">
-            Campus Compass was built using the cutting-edge MERN (MongoDB,
+            Saarathi was built using the cutting-edge MERN (MongoDB,
             Express.js, React, Node.js) stack. This technology stack enables us
             to create a seamless and user-friendly experience for students,
             offering features like real-time updates, easy navigation, and
@@ -235,21 +235,21 @@ const About = () => {
             We are excited to be a part of your educational journey and look
             forward to helping you achieve your academic goals. Whether you're a
             freshman just starting or a senior looking to share your wisdom,
-            Campus Compass is here to support you every step of the way.
+            Saarathi is here to support you every step of the way.
           </Typography>
 
           <Typography variant="body1" style={{ marginTop: "20px" }}>
             If you have any questions, suggestions, or feedback, please don't
             hesitate to contact us at{" "}
-            <a href="mailto:campuscompasscontact@gmail.com">
-              campuscompasscontact@gmail.com
+            <a href="mailto:admsaarathi@gmail.com">
+              admsaarathi@gmail.com
             </a>
             . <br />
             We'd love to hear from you!
           </Typography>
 
           <Typography variant="body1" style={{ marginTop: "20px" }}>
-            Thank you for choosing Campus Compass as your trusted academic
+            Thank you for choosing Saarathi as your trusted academic
             companion.
           </Typography>
 

@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
   const privacyPoliceContent = `
 **Privacy Notice**
 
-At Campus Compass, we are committed to protecting your privacy. This Privacy Notice explains how we collect, use, and safeguard your personal information.
+At Saarathi, we are committed to protecting your privacy. This Privacy Notice explains how we collect, use, and safeguard your personal information.
 
 **1. Information We Collect**
     
@@ -43,7 +43,7 @@ We may update this Privacy Notice to reflect changes in our practices. You will 
 
 **9. Contact Us**
 
-If you have any questions about our privacy practices, please contact us at campusscompasscontact@gmail.com.
+If you have any questions about our privacy practices, please contact us at admsaarathi@gmail.com.
   `;
 
   const CustomContainer = styled(Container)(({ theme }) => ({
@@ -51,7 +51,7 @@ If you have any questions about our privacy practices, please contact us at camp
   }));
 
   useEffect(() => {
-    document.title = "CC | Privacy Policy";
+    document.title = "Saarathi | Privacy Policy";
   }, []);
 
   return (

@@ -57,7 +57,7 @@ const Details = () => {
                 my: 3,
               }}
             >
-              Some amazing features of Campus Compass
+              Some amazing features of Saarathi
             </Typography>
 
             <Typography

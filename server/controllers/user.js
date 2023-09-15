@@ -51,8 +51,7 @@ export const signup = async (req, res, next) => {
             sendVerificationEmail(user, res);
             res.status(201).json({
                 success: true,
-                message: "Registered Successfully! Please verify your email using the link sent to your inbox"
-            });
+                message: "Registered Successfully! Please verify your email using the link sent to your inbox" });
         }
     } catch (error) {
         next(error);

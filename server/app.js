@@ -40,7 +40,7 @@ app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   cors({
-	  origin: ["https://saarathi.me", process.env.ADMIN_URL],
+	  origin: ["https://www.saarathi.me", process.env.ADMIN_URL],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
@@ -49,7 +49,7 @@ app.use(
 export const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-	  origin: ["https://saarathi.me"],
+	  origin: ["https://www.saarathi.me"],
     methods: ["GET", "POST"],
     credentials: true,
   },
@@ -57,8 +57,17 @@ const io = new Server(server, {
 
 const onlineUsers = new Map();
 
+const maxOnlineUsers = 20; // Maximum number of online users allowed
+
 io.on("connection", (socket) => {
   socket.on("login", (user) => {
+    // Check if the maximum number of online users has been reached
+    if (onlineUsers.size >= maxOnlineUsers) {
+      // Remove the oldest user
+      const oldestUserId = Array.from(onlineUsers.keys())[0];
+      onlineUsers.delete(oldestUserId);
+    }
+
     onlineUsers.set(user._id, user);
     io.emit("updateOnlineUsers", Array.from(onlineUsers.values()));
   });
@@ -79,7 +88,7 @@ app.use("/public", (req, res, next) => {
   // Set CORS headers to allow requests from both origins
   res.header(
     "Access-Control-Allow-Origin",
-    "https://saarathi.me"
+    "https://www.saarathi.me"
   );
   res.header("Access-Control-Allow-Methods", "GET"); // Add more methods if needed
   res.header("Access-Control-Allow-Headers", "Content-Type"); // Add more headers if needed

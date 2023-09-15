@@ -31,7 +31,7 @@ const Companies = () => {
         <Box sx={{mt: 5}}>
             <CustomContainer>
                 <CustomBox>
-                    <img src={logoImg} alt="logo" style={{maxWidth: "100%"}}/>
+                    <img src={logoImg} alt="logo" style={{maxWidth: "200px"}}/>
                    
                 </CustomBox>
 

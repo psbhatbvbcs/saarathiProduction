@@ -119,7 +119,7 @@ const MyProfile = () => {
   const [file, setFile] = useState(null);
 
   useEffect(() => {
-    document.title = "CC | My Profile";
+    document.title = "Saarathi | My Profile";
   }, []);
 
   const handleAddQuality = (quality) => {

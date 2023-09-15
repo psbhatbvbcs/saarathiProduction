@@ -13,12 +13,12 @@ import { StyledDashboard } from 'components/BackgroundBox';
 
 
 const Title = styled(Typography)(({ theme }) => ({
-    fontSize: "40px",
+    fontSize: "36px",
     color: "primary",
     fontWeight: "bold",
     margin: theme.spacing(0, 0, 1, 4),
     [theme.breakpoints.down("sm")]: {
-        fontSize: "40px",
+        fontSize: "36px",
     }
 }));
 
@@ -33,7 +33,7 @@ const SeniorTalksDashboard = () => {
     const id = user.college;
 
     useEffect(() => {
-        document.title = `CC | SeniorTalks`
+        document.title = `Saarathi | SeniorTalks`
     }, [])
 
     const queryKey = ['seniorsQuery']
@@ -58,7 +58,7 @@ const SeniorTalksDashboard = () => {
 
     return (
         <StyledDashboard>
-            <Title>SeniorTalks</Title>
+            <Title>Senior Talks</Title>
             <Typography ml={4} variant='h4'>
                 Need some guidance? Read what your seniors have to say! <br />Who know? You may have some revelation ;)
             </Typography>

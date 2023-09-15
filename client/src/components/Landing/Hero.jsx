@@ -30,8 +30,6 @@ const Landing = () => {
     },
   }));
 
-
-
   const navigateToAbout = () => {
     navigate("/about");
   };
@@ -52,10 +50,10 @@ const Landing = () => {
                 mb: 4,
               }}
             >
-              Welcome to Campus Compass
+              Welcome to Saarathi
             </Typography>
             <Title variant="h1">
-              Discover a Smarter Campus Life with CampusCompass!
+              Discover a Smarter Campus Life with Saarathi!
             </Title>
             <Typography
               variant="body2"
@@ -65,8 +63,9 @@ const Landing = () => {
                 my: 4,
               }}
             >
-              Your One-Stop Destination for Comprehensive Subject Notes and
-              Real-Time College Updates. Stay Informed, Stay Ahead!
+              Your One-Stop Destination for Comprehensive Subject Notes, Papers
+              and Real-Time College Updates like Senior Guidance and Semester
+              Insights. Stay Informed, Stay Ahead!
             </Typography>
             <CustomButton
               backgroundColor="#0F1B4C"

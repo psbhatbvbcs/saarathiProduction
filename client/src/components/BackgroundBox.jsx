@@ -15,5 +15,6 @@ export const StyledDashboard = styled(Box)(({ theme }) => ({
     backgroundPosition: "center",
     opacity: 0.2, // Adjust the opacity value as needed
     zIndex: -1, // Move the pseudo-element below other content
+    paddingBottom: 3,
   },
 }));

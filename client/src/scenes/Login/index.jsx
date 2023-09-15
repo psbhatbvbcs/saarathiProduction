@@ -130,7 +130,7 @@ const LoginPage = () => {
   const [passwordVisible, setPasswordVisible] = useState(false);
 
   useEffect(() => {
-    document.title = "CC | Login"
+    document.title = "Saarathi | Login"
   }, [])
 
   const { values, errors, touched, handleBlur, handleChange, handleSubmit } = useFormik({

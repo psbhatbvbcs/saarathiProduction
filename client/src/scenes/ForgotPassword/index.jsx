@@ -123,7 +123,7 @@ const ForgotPassword = () => {
     const [email, setEmail] = useState("");
 
     useEffect(() => {
-        document.title = "CC | Forgot Password"
+        document.title = "Saarathi | Forgot Password"
     }, [])
 
 

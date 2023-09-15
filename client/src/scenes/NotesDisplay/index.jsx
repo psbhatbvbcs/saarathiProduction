@@ -14,12 +14,12 @@ import { StyledDashboard } from 'components/BackgroundBox';
 
 
 const Title = styled(Typography)(({ theme }) => ({
-    fontSize: "40px",
+    fontSize: "36px",
     color: "primary",
     fontWeight: "bold",
     margin: theme.spacing(0, 0, 1, 4),
     [theme.breakpoints.down("sm")]: {
-        fontSize: "40px",
+        fontSize: "36px",
     }
 }));
 
@@ -35,7 +35,7 @@ const NotesDisplay = () => {
     const id = user.college;
 
     useEffect(() => {
-        document.title = `CC | ${subject}`
+        document.title = `Saarathi | ${subject}`
     }, [subject])
 
     const queryKey = ['notesQuery']

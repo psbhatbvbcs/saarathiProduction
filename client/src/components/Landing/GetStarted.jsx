@@ -1,8 +1,6 @@
 import { IconButton, styled, Typography } from "@mui/material";
 import { Box, Container } from "@mui/system";
 import React from "react";
-import homeIllustration from "components/Landing/assets/illustration.png";
-import CustomButton from "./CustomButton";
 import FileCopyIcon from "@mui/icons-material/FileCopy";
 import { toast } from "react-hot-toast";
 
@@ -32,7 +30,7 @@ const GetStarted = () => {
   }));
 
   const handleEmailCopy = () => {
-    const email = "campusscompasscontact@gmail.com";
+    const email = "admsaarathi@gmail.com";
     navigator.clipboard.writeText(email)
       .then(() => {
         toast.success("Email copied to clipboard!");
@@ -54,7 +52,7 @@ const GetStarted = () => {
           <Typography
             sx={{ fontSize: "16px", color: "#ccc", fontWeight: "500", my: 3, display: "flex", alignItems: "center" }}
           >
-            Contact us on campusscompasscontact@gmail.com
+            Contact us on admsaarathi@gmail.com
             <IconButton onClick={handleEmailCopy} color="primary">
               <FileCopyIcon />
             </IconButton>

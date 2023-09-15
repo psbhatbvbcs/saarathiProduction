@@ -6,6 +6,7 @@ import {
   IconButton,
   List,
   ListItem,
+  Stack,
   Typography,
   styled,
   useMediaQuery,
@@ -23,7 +24,7 @@ import ArrowRightAltIcon from "@mui/icons-material/ArrowRightAlt";
 import { BirdAnimation } from "components/FlyingBird";
 import { useEffect, useState } from "react";
 import { StyleSheetManager } from "styled-components";
-import { Instagram } from "@mui/icons-material";
+import { Instagram, LinkedIn } from "@mui/icons-material";
 
 const Title = styled(Typography)(({ theme }) => ({
   fontSize: "40px",
@@ -113,7 +114,7 @@ const Dashboard = () => {
   }, []);
 
   useEffect(() => {
-    document.title = "CC | Dashboard";
+    document.title = "Saarathi | Dashboard";
   }, []);
 
   if (!isAuthenticated) {
@@ -130,7 +131,7 @@ const Dashboard = () => {
         >
           <Box width={"100%"}>
             <Container>
-              <Title>Welcome to Campus Compass!</Title>
+              <Title>Welcome to Saarathi!</Title>
               <Divider orientation={"horizontal"} flexItem />
               <Box
                 display={"flex"}
@@ -142,7 +143,14 @@ const Dashboard = () => {
               >
                 <StyledBox justifyContent={"center"} height={"fit-content"}>
                   <GuidesBox>
-                    <GuideBox onClick={() => navigate("/notes-dashboard")}>
+                    <GuideBox
+                      onClick={() =>
+                        window.open(
+                          "https://scribehow.com/shared/How_to_Access_Course_Notes_on_Saarathime__RGmQtEJTQxyf0kqL0YuOBQ",
+                          "_blank"
+                        )
+                      }
+                    >
                       <img src={booksIcon} alt="buy" />
                       <Typography
                         variant="body2"
@@ -153,7 +161,7 @@ const Dashboard = () => {
                           my: 1,
                         }}
                       >
-                        Get Exam Ready!
+                        Get your Notes!
                       </Typography>
                       <Box
                         sx={{
@@ -177,7 +185,14 @@ const Dashboard = () => {
                         <ArrowRightAltIcon />
                       </Box>
                     </GuideBox>
-                    <GuideBox onClick={() => navigate("/notes-dashboard")}>
+                    <GuideBox
+                      onClick={() =>
+                        window.open(
+                          "https://scribehow.com/shared/Accessing_Sem_Wise_Insights_on_Saarathi_Dashboard__Ae9jak-JRlSvUw4CvEWYQA",
+                          "_blank"
+                        )
+                      }
+                    >
                       <img src={clubIcon} alt="buy" />
                       <Typography
                         variant="body2"
@@ -212,7 +227,14 @@ const Dashboard = () => {
                         <ArrowRightAltIcon />
                       </Box>
                     </GuideBox>
-                    <GuideBox>
+                    <GuideBox
+                      onClick={() =>
+                        window.open(
+                          "https://scribehow.com/shared/How_to_Access_and_Navigate_Through_Saarathi_Dashboard__EN2nFmd9S2K_5PRdOeX0KQ",
+                          "_blank"
+                        )
+                      }
+                    >
                       <img src={seniorIcon} alt="buy" />
                       <Typography
                         variant="body2"
@@ -265,7 +287,7 @@ const Dashboard = () => {
                     textAlign={"center"}
                     fontWeight="bold"
                   >
-                    Campus Compass was brought to you by
+                    Saarathi was brought to you by
                   </Typography>
                   <Box width={"100%"} display={"flex"}>
                     <Box
@@ -296,17 +318,30 @@ const Dashboard = () => {
                       >
                         Pranav Bhat
                       </Typography>
-                      <IconButton
-                        onClick={() =>
-                          window.open(
-                            "https://www.instagram.com/mr._.bhat/",
-                            "_blank"
-                          )
-                        }
-                        sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
-                      >
-                        <Instagram />
-                      </IconButton>
+                      <Stack direction={"row"} spacing={1}>
+                        <IconButton
+                          onClick={() =>
+                            window.open(
+                              "https://www.linkedin.com/in/mr-pranav-bhat/",
+                              "_blank"
+                            )
+                          }
+                          sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
+                        >
+                          <LinkedIn />
+                        </IconButton>
+                        <IconButton
+                          onClick={() =>
+                            window.open(
+                              "https://www.instagram.com/mr._.bhat/",
+                              "_blank"
+                            )
+                          }
+                          sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
+                        >
+                          <Instagram />
+                        </IconButton>
+                      </Stack>
                       <Typography
                         variant="body2"
                         textAlign={"center"}
@@ -346,17 +381,30 @@ const Dashboard = () => {
                       >
                         Vats Mishra
                       </Typography>
-                      <IconButton
-                        onClick={() =>
-                          window.open(
-                            "https://www.instagram.com/vats_mishra70/",
-                            "_blank"
-                          )
-                        }
-                        sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
-                      >
-                        <Instagram />
-                      </IconButton>
+                      <Stack direction={"row"} spacing={1}>
+                        <IconButton
+                          onClick={() =>
+                            window.open(
+                              "https://www.linkedin.com/in/vats-mishra-758769231/",
+                              "_blank"
+                            )
+                          }
+                          sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
+                        >
+                          <LinkedIn />
+                        </IconButton>
+                        <IconButton
+                          onClick={() =>
+                            window.open(
+                              "https://www.instagram.com/vats_mishra70/",
+                              "_blank"
+                            )
+                          }
+                          sx={{ bgcolor: "rgb(0,0,0,0.2)" }}
+                        >
+                          <Instagram />
+                        </IconButton>
+                      </Stack>
                       <Typography
                         variant="body2"
                         textAlign={"center"}

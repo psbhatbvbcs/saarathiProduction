@@ -142,7 +142,7 @@ const Sidebar = ({
                             <FlexBetween color={theme.palette.secondary.main}>
                                 <Box display="flex" alignItems="center" gap="0.5rem">
                                     <Typography variant="h5" fontWeight={"bold"}>
-                                        Campus Compass Admin Panel
+                                        Saarathi Admin Panel
                                     </Typography>
                                 </Box>
                                 {!isNonMobile && (

@@ -6,7 +6,7 @@ import NavbarL from "./Landing/NavbarL";
 const TermsOfUse = () => {
 
   const termsOfUseContent = `
-Welcome to Campus Compass! By using our website, you agree to comply with and be bound by the following terms and conditions. Please review the terms carefully. If you do not agree with these terms, you should not use our website.
+Welcome to Saarathi! By using our website, you agree to comply with and be bound by the following terms and conditions. Please review the terms carefully. If you do not agree with these terms, you should not use our website.
 
 **1. Use of Content**
 
@@ -18,7 +18,7 @@ You are solely responsible for your actions and conduct while using our website.
 
 **3. Intellectual Property**
     
-All intellectual property rights related to our website's content and features belong to Campus Compass. You may not use our intellectual property without our permission.
+All intellectual property rights related to our website's content and features belong to Saarathi. You may not use our intellectual property without our permission.
 
 **4. Disclaimer of Warranties**
     
@@ -42,7 +42,7 @@ These terms are governed by the laws of India.
 
 **9. Contact Us**
     
-If you have any questions about these terms, please contact us at campusscompasscontact@gmail.com.
+If you have any questions about these terms, please contact us at admsaarathi@gmail.com.
   `;
 
   const CustomContainer = styled(Container)(({ theme }) => ({
@@ -51,7 +51,7 @@ If you have any questions about these terms, please contact us at campusscompass
 
 
   useEffect(() => {
-    document.title = "CC | Terms Of Use";
+    document.title = "Saarathi | Terms Of Use";
   }, []);
 
   return (

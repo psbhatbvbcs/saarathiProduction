@@ -1,11 +1,9 @@
-api.saarathi.me:443 {
+saarathi.me:443 {
     tls psbhat007@gmail.com
-    route {
-        reverse_proxy /* api-server:8080
-    }
+    redir https://www.saarathi.me{uri}
 }
 
-saarathi.me:443 {
+www.saarathi.me:443 {
     tls psbhat007@gmail.com
     root * /srv
     route {
@@ -13,3 +11,11 @@ saarathi.me:443 {
         file_server
     }
 }
+
+api.saarathi.me:443 {
+    tls psbhat007@gmail.com
+    route {
+        reverse_proxy /* api-server:8080
+    }
+}
+

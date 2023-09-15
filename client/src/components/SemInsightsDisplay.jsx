@@ -36,7 +36,7 @@ const SemInsightsDisplay = () => {
     const id = user.college;
 
     useEffect(() => {
-        document.title = `CC | Semester Insight`
+        document.title = `Saarathi | Semester Insight`
     }, [])
 
     const queryKey = ['semInsightsQuery']

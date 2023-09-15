@@ -6,12 +6,12 @@ import { useNavigate } from 'react-router-dom';
 
 
 const Title = styled(Typography)(({ theme }) => ({
-    fontSize: "40px",
+    fontSize: "36px",
     color: "primary",
     fontWeight: "bold",
     margin: theme.spacing(0, 0, 1, 4),
     [theme.breakpoints.down("sm")]: {
-        fontSize: "40px",
+        fontSize: "36px",
     }
 }));
 
@@ -25,7 +25,7 @@ const ResourcesDashboard = () => {
     const mode = useSelector((state) => state.app.mode);
 
     useEffect(() => {
-        document.title = "CC | Important Resources"
+        document.title = "Saarathi | Important Resources"
     })
 
 
