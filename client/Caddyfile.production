@@ -1,0 +1,15 @@
+api.saarathi.me:443 {
+    tls psbhat007@gmail.com
+    route {
+        reverse_proxy /* api-server:8080
+    }
+}
+
+saarathi.me:443 {
+    tls psbhat007@gmail.com
+    root * /srv
+    route {
+        try_files {path} {path}/ /index.html
+        file_server
+    }
+}
