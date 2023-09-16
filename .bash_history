@@ -185,3 +185,218 @@ cd ../../
 cd ..
 make build-production
 make run-production
+clear
+ls
+cd client/src/components
+ls
+vim NotesBySubject.jsx 
+vim BackgroundBox.jsx 
+cd ../../..
+ls
+make build-production
+cd client/src/components
+vim NotesBySubject.jsx 
+cd ../../..
+ls
+make build-production
+make run-production
+cd client/src/components
+vim NotesBySubject.jsx 
+cd ../../..
+make build-production
+make run-production
+git status
+git add .
+git commit -m "daily backup 16-09-2023"
+git push origin master
+exit
+clear
+cd server
+ls
+cd public
+ls
+cd files
+ls
+cd KLE\ Technological\ University/
+ls
+cd CSE
+ls
+cd C C\ Cycle/
+cd C\ Cycle/
+ls
+cd ../../../../
+cd ../..
+ls
+docker
+docker ps
+docker push react-app-production:production
+docker login
+docker push react-app-production:production
+sudo docker push react-app-production:production
+docker push react-app-production
+docker push react-app-production:production
+docker tag react-app-production:production mrbhat007/react-app-production:production
+docker push mrbhat007/react-app-production:production
+docker tag ap
+docker tag api-server:latest mrbhat007/api-server:latest
+docker push mrbhat007/api-server:latest
+vim Makefile
+make tag-images
+make push-images
+clear
+exit
+vim docker-compose-production.yml
+clear
+make build-production
+make run-production
+cd server/public
+ls
+cd files
+cd KLE\ Technological\ University/
+ls
+cd CSE
+ls
+cd C\ Cycle/
+ls
+cd ..
+ls P\ Cycle/
+cd P\ Cycle/
+ls
+cd Multi\ Variable\ Calculus/
+ls
+cd ..
+cd ../..
+clear
+ENV=production docker compose -f docker-compose-production.yml down
+cd ../../../
+cd ..
+ENV=production docker compose -f docker-compose-production.yml down
+make build-production
+make run-production
+cd server/public/files/CSE
+cd server/public/files
+ls
+cd KLE\ Technological\ University/
+cd CSE/
+ls
+cd P\ Cycle/
+ls
+cd Multi\ Variable\ Calculus/
+ls
+cd ..
+ls
+cd ../../..
+ls
+cd ../..
+ls
+vim docker-compose-production.yml 
+ENV=production docker compose -f docker-compose-production.yml down
+make build-production
+make run-production
+cd server
+cd public/files/KLE\ Technological\ University/CSE/
+ls
+cd P\ Cycle/
+ls
+cd Multi\ Variable\ Calculus/
+ls
+cd ..
+ls
+cd M
+ls
+cd Multi\ Variable\ Calculus/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+vim docker-compose-production.yml 
+clear
+ENV=production docker compose -f docker-compose-production.yml down
+make build-production
+clear
+make run-production
+vim docker-compose-production.yml 
+make run-production
+ENV=production docker compose -f docker-compose-production.yml down
+make build-production
+make run-production
+cd server/public
+ls
+cd files
+ls
+cd KLE\ Technological\ University/CSE/
+ls
+cd P\ Cycle/
+ls
+cd Multi\ Variable\ Calculus/
+ls
+cd ../../../../..
+ls
+cd ../..
+ls
+exit
+clear
+cd server/public/files/KLE\ Technological\ University/CSE/
+ls
+clear
+ls
+cd C
+cd C\ Cycle/
+ls
+cd Single\ Variable\ Calculus/
+ls
+rm unit\ 1\ maths.pdf 
+rm unit\ 2\ maths\ .pdf 
+ls
+clear
+ls
+ENV=production docker compose -f docker-compose-production.yml down
+cd ../../../../..
+cd ../..
+ENV=production docker compose -f docker-compose-production.yml down
+make run-production
+cd server/public/files/KLE\ Technological\ University/CSE/
+ls
+cd P\ Cycle/
+ls
+cd M
+cd Multi\ Variable\ Calculus/
+ls
+clear
+clar
+clear
+cd server/public/files/KLE\ Technological\ University/C
+cd server/public/files/KLE\ Technological\ University/CSE/
+ks
+ls
+clear
+cd C\ Cycle/
+ls
+cd ..\
+cd ../
+ls
+cd C\ Cycle/
+ls
+cd ../
+cd P\ Cycle/
+ls
+cd Engineering\ Physics/
+ls
+cd ../
+cd ../../
+cd ../../../
+ls
+cd ..
+clera
+clear

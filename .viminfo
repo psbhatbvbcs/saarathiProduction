@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694811939,,"wq"
+|2,0,1694815589,,"wq"
 :q
 |2,0,1694756131,,"q"
 :qa!
@@ -30,234 +30,254 @@
 
 # Registers:
 ""-	CHAR	0
-	r
-|3,1,36,0,1,0,1694723801,"r"
+	/
+|3,1,36,0,1,0,1694815386,"/"
 
 # File marks:
-'0  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,48,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
-'1  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,49,2,89,1694811597,"~/client/src/components/NotesBySubject.jsx"
-'2  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,50,2,89,1694811597,"~/client/src/components/NotesBySubject.jsx"
-'3  18  20  ~/client/src/components/BackgroundBox.jsx
-|4,51,18,20,1694811347,"~/client/src/components/BackgroundBox.jsx"
-'4  79  79  ~/client/src/components/NotesBySubject.jsx
-|4,52,79,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
-'5  81  79  ~/client/src/components/NotesBySubject.jsx
-|4,53,81,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
-'6  79  79  ~/client/src/components/NotesBySubject.jsx
-|4,54,79,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
-'7  43  25  ~/server/app.js
-|4,55,43,25,1694786109,"~/server/app.js"
-'8  54  108  ~/server/controllers/user.js
-|4,56,54,108,1694781127,"~/server/controllers/user.js"
-'9  96  28  ~/server/controllers/admin.js
-|4,57,96,28,1694781089,"~/server/controllers/admin.js"
+'0  25  24  ~/docker-compose-production.yml
+|4,48,25,24,1694815589,"~/docker-compose-production.yml"
+'1  37  16  ~/docker-compose-production.yml
+|4,49,37,16,1694815414,"~/docker-compose-production.yml"
+'2  37  16  ~/docker-compose-production.yml
+|4,50,37,16,1694815414,"~/docker-compose-production.yml"
+'3  25  15  ~/docker-compose-production.yml
+|4,51,25,15,1694815015,"~/docker-compose-production.yml"
+'4  25  15  ~/docker-compose-production.yml
+|4,52,25,15,1694815015,"~/docker-compose-production.yml"
+'5  25  15  ~/docker-compose-production.yml
+|4,53,25,15,1694815015,"~/docker-compose-production.yml"
+'6  14  62  ~/docker-compose-production.yml
+|4,54,14,62,1694814528,"~/docker-compose-production.yml"
+'7  15  34  ~/docker-compose-production.yml
+|4,55,15,34,1694814528,"~/docker-compose-production.yml"
+'8  14  62  ~/docker-compose-production.yml
+|4,56,14,62,1694814528,"~/docker-compose-production.yml"
+'9  15  34  ~/docker-compose-production.yml
+|4,57,15,34,1694814528,"~/docker-compose-production.yml"
 
 # Jumplist (newest first):
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815414,"~/docker-compose-production.yml"
+-'  25  15  ~/docker-compose-production.yml
+|4,39,25,15,1694815382,"~/docker-compose-production.yml"
+-'  25  15  ~/docker-compose-production.yml
+|4,39,25,15,1694815015,"~/docker-compose-production.yml"
+-'  14  62  ~/docker-compose-production.yml
+|4,39,14,62,1694814959,"~/docker-compose-production.yml"
+-'  14  62  ~/docker-compose-production.yml
+|4,39,14,62,1694814959,"~/docker-compose-production.yml"
+-'  14  62  ~/docker-compose-production.yml
+|4,39,14,62,1694814959,"~/docker-compose-production.yml"
+-'  15  34  ~/docker-compose-production.yml
+|4,39,15,34,1694814528,"~/docker-compose-production.yml"
+-'  15  34  ~/docker-compose-production.yml
+|4,39,15,34,1694814528,"~/docker-compose-production.yml"
+-'  15  34  ~/docker-compose-production.yml
+|4,39,15,34,1694814528,"~/docker-compose-production.yml"
+-'  1  0  ~/docker-compose-production.yml
+|4,39,1,0,1694814486,"~/docker-compose-production.yml"
+-'  1  0  ~/docker-compose-production.yml
+|4,39,1,0,1694814486,"~/docker-compose-production.yml"
+-'  1  0  ~/docker-compose-production.yml
+|4,39,1,0,1694814486,"~/docker-compose-production.yml"
+-'  1  0  ~/docker-compose-production.yml
+|4,39,1,0,1694814486,"~/docker-compose-production.yml"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  40  0  ~/Makefile
+|4,39,40,0,1694813812,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  24  68  ~/Makefile
+|4,39,24,68,1694813641,"~/Makefile"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
+-'  81  76  ~/client/src/components/NotesBySubject.jsx
+|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
 -'  81  76  ~/client/src/components/NotesBySubject.jsx
 |4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
 -'  2  89  ~/client/src/components/NotesBySubject.jsx
 |4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
 -'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811597,"~/client/src/components/NotesBySubject.jsx"
--'  81  79  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,79,1694811536,"~/client/src/components/NotesBySubject.jsx"
--'  18  20  ~/client/src/components/BackgroundBox.jsx
-|4,39,18,20,1694811347,"~/client/src/components/BackgroundBox.jsx"
--'  18  20  ~/client/src/components/BackgroundBox.jsx
-|4,39,18,20,1694811347,"~/client/src/components/BackgroundBox.jsx"
--'  18  20  ~/client/src/components/BackgroundBox.jsx
-|4,39,18,20,1694811347,"~/client/src/components/BackgroundBox.jsx"
--'  18  20  ~/client/src/components/BackgroundBox.jsx
-|4,39,18,20,1694811347,"~/client/src/components/BackgroundBox.jsx"
--'  1  0  ~/client/src/components/BackgroundBox.jsx
-|4,39,1,0,1694811005,"~/client/src/components/BackgroundBox.jsx"
--'  1  0  ~/client/src/components/BackgroundBox.jsx
-|4,39,1,0,1694811005,"~/client/src/components/BackgroundBox.jsx"
--'  1  0  ~/client/src/components/BackgroundBox.jsx
-|4,39,1,0,1694811005,"~/client/src/components/BackgroundBox.jsx"
--'  1  0  ~/client/src/components/BackgroundBox.jsx
-|4,39,1,0,1694811005,"~/client/src/components/BackgroundBox.jsx"
--'  79  79  ~/client/src/components/NotesBySubject.jsx
-|4,39,79,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
--'  79  79  ~/client/src/components/NotesBySubject.jsx
-|4,39,79,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
--'  79  79  ~/client/src/components/NotesBySubject.jsx
-|4,39,79,79,1694810981,"~/client/src/components/NotesBySubject.jsx"
--'  1  0  ~/client/src/components/NotesBySubject.jsx
-|4,39,1,0,1694810937,"~/client/src/components/NotesBySubject.jsx"
--'  1  0  ~/client/src/components/NotesBySubject.jsx
-|4,39,1,0,1694810937,"~/client/src/components/NotesBySubject.jsx"
--'  1  0  ~/client/src/components/NotesBySubject.jsx
-|4,39,1,0,1694810937,"~/client/src/components/NotesBySubject.jsx"
--'  1  0  ~/client/src/components/NotesBySubject.jsx
-|4,39,1,0,1694810937,"~/client/src/components/NotesBySubject.jsx"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1694786109,"~/server/app.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  54  108  ~/server/controllers/user.js
-|4,39,54,108,1694781127,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  1  0  ~/server/controllers/user.js
-|4,39,1,0,1694781106,"~/server/controllers/user.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  96  28  ~/server/controllers/admin.js
-|4,39,96,28,1694781089,"~/server/controllers/admin.js"
--'  1  0  ~/server/controllers/admin.js
-|4,39,1,0,1694781044,"~/server/controllers/admin.js"
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+-'  2  89  ~/client/src/components/NotesBySubject.jsx
+|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
 
 # History of marks within files (newest to oldest):
+
+> ~/docker-compose-production.yml
+	*	1694815586	0
+	"	25	24
+	^	25	25
+	.	25	24
+	+	14	28
+	+	15	0
+	+	26	0
+	+	25	24
+
+> ~/Makefile
+	*	1694813809	0
+	"	40	0
+	^	40	1
+	.	40	0
+	+	23	0
+	+	24	68
+	+	39	54
+	+	40	0
 
 > ~/client/src/components/NotesBySubject.jsx
 	*	1694811935	0
@@ -350,14 +370,6 @@
 	^	3	4
 	.	3	4
 	+	3	4
-
-> ~/Makefile
-	*	1694724045	0
-	"	24	68
-	^	24	69
-	.	24	68
-	+	23	0
-	+	24	68
 
 > ~/client/src/scenes/UserProfile/index.jsx
 	*	1694723741	0

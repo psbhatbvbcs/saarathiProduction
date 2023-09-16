@@ -30,3 +30,11 @@ ssh:
 
 copy-files:
 	scp -r ./* $(SSH_STRING):/root/
+
+tag-images:
+	docker tag react-app-production:production mrbhat007/react-app-production:production
+	docker tag api-server:latest mrbhat007/api-server:latest
+
+push-images:
+	docker push mrbhat007/react-app-production:production
+	docker push mrbhat007/api-server:latest

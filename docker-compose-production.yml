@@ -21,6 +21,8 @@ services:
       - "8080:8080"
     networks:
       - mern-app
+    volumes:
+      - ./server/public:/usr/src/app/public/
 
 networks:
   mern-app:
