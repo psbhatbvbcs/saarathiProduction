@@ -70,6 +70,36 @@ const Layout = () => {
     return <Navigate to={"/landing"} />;
   }
 
+  const heartbeatInterval = 300 * 3 * 1000; // 15minutes (adjust as needed)
+  let heartbeatTimer;
+
+  function sendHeartbeat() {
+    socket.emit("heartbeat", { _id: user._id }); // Send a heartbeat message to the server
+  }
+
+  // Start sending heartbeats when the user is authenticated
+  if (isAuthenticated) {
+    socket.emit("login", { _id: user._id, name: user.name });
+
+    // Send the first heartbeat immediately upon login
+    sendHeartbeat();
+
+    // Set up a timer to send heartbeats periodically
+    heartbeatTimer = setInterval(sendHeartbeat, heartbeatInterval);
+  }
+
+  // Stop sending heartbeats when the user logs out
+  if (!isAuthenticated) {
+    socket.emit("logout", { _id: user._id, name: user.name });
+
+    // Clear the heartbeat timer
+    clearInterval(heartbeatTimer);
+  }
+
+  if (!isAuthenticated) {
+    return <Navigate to={"/landing"} />;
+  }
+
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />

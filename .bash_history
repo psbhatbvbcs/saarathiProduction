@@ -400,3 +400,27 @@ ls
 cd ..
 clera
 clear
+git add .
+git push origin master
+clear
+exit
+clear
+cd client/src/scenes/Layout
+nano index.jsx
+vim index.jsx
+cd ../../../..
+cd server/app.js
+cd server
+vim app.js
+cd ..
+make build-production
+make run-production
+exit
+clear
+cd client/src/scenes/MyProfile
+ls
+vim index.js
+vim index.jsx
+make build-production
+cd ../../../..
+ls

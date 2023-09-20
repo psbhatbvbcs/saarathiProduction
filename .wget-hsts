@@ -1,4 +1,4 @@
 # HSTS 1.0 Known Hosts database for GNU Wget.
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-repos-droplet.digitalocean.com	0	1	1694845655	15552000
+repos-droplet.digitalocean.com	0	1	1695234275	15552000

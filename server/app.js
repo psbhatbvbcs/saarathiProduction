@@ -56,8 +56,28 @@ const io = new Server(server, {
 });
 
 const onlineUsers = new Map();
-
 const maxOnlineUsers = 20; // Maximum number of online users allowed
+const userActivityTimeout = 60 * 31 * 1000; // 31 minute (adjust as needed)
+
+function removeInactiveUsers() {
+  const currentTime = Date.now();
+  const inactiveUsers = [];
+
+  onlineUsers.forEach((user, userId) => {
+    if (currentTime - user.lastActivity > userActivityTimeout) {
+      inactiveUsers.push(userId);
+    }
+  });
+
+  inactiveUsers.forEach((userId) => {
+    onlineUsers.delete(userId);
+  });
+
+  io.emit("updateOnlineUsers", Array.from(onlineUsers.values()));
+}
+
+// Periodically check for inactive users and remove them
+setInterval(removeInactiveUsers, userActivityTimeout);
 
 io.on("connection", (socket) => {
   socket.on("login", (user) => {
@@ -68,13 +88,22 @@ io.on("connection", (socket) => {
       onlineUsers.delete(oldestUserId);
     }
 
-    onlineUsers.set(user._id, user);
+    onlineUsers.set(user._id, { ...user, lastActivity: Date.now() });
     io.emit("updateOnlineUsers", Array.from(onlineUsers.values()));
   });
 
   socket.on("logout", (userId) => {
     onlineUsers.delete(userId._id);
     io.emit("updateOnlineUsers", Array.from(onlineUsers.values()));
+  });
+
+  socket.on("heartbeat", (data) => {
+    // Update the last activity time for the user
+    const user = onlineUsers.get(data._id);
+    if (user) {
+      user.lastActivity = Date.now();
+      onlineUsers.set(data._id, user);
+    }
   });
 
   // Other socket event listeners can be added here

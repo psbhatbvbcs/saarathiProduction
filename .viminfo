@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694815589,,"wq"
-:q
-|2,0,1694756131,,"q"
+|2,0,1695062086,,"wq"
 :qa!
-|2,0,1694723825,,"qa!"
+|2,0,1695061824,,"qa!"
+:q
+|2,0,1695061808,,"q"
 :w
 |2,0,1694721715,,"w"
 
@@ -30,234 +30,267 @@
 
 # Registers:
 ""-	CHAR	0
-	/
-|3,1,36,0,1,0,1694815386,"/"
+	;
+|3,1,36,0,1,0,1695061912,";"
 
 # File marks:
-'0  25  24  ~/docker-compose-production.yml
-|4,48,25,24,1694815589,"~/docker-compose-production.yml"
-'1  37  16  ~/docker-compose-production.yml
-|4,49,37,16,1694815414,"~/docker-compose-production.yml"
-'2  37  16  ~/docker-compose-production.yml
-|4,50,37,16,1694815414,"~/docker-compose-production.yml"
-'3  25  15  ~/docker-compose-production.yml
-|4,51,25,15,1694815015,"~/docker-compose-production.yml"
-'4  25  15  ~/docker-compose-production.yml
-|4,52,25,15,1694815015,"~/docker-compose-production.yml"
-'5  25  15  ~/docker-compose-production.yml
-|4,53,25,15,1694815015,"~/docker-compose-production.yml"
-'6  14  62  ~/docker-compose-production.yml
-|4,54,14,62,1694814528,"~/docker-compose-production.yml"
-'7  15  34  ~/docker-compose-production.yml
-|4,55,15,34,1694814528,"~/docker-compose-production.yml"
-'8  14  62  ~/docker-compose-production.yml
-|4,56,14,62,1694814528,"~/docker-compose-production.yml"
-'9  15  34  ~/docker-compose-production.yml
-|4,57,15,34,1694814528,"~/docker-compose-production.yml"
+'0  102  2  ~/server/app.js
+|4,48,102,2,1695062086,"~/server/app.js"
+'1  28  2  ~/client/src/scenes/Layout/index.jsx
+|4,49,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
+'2  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,50,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
+'3  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,51,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
+'4  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,52,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+'5  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,53,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+'6  25  24  ~/docker-compose-production.yml
+|4,54,25,24,1694815589,"~/docker-compose-production.yml"
+'7  37  16  ~/docker-compose-production.yml
+|4,55,37,16,1694815414,"~/docker-compose-production.yml"
+'8  37  16  ~/docker-compose-production.yml
+|4,56,37,16,1694815414,"~/docker-compose-production.yml"
+'9  25  15  ~/docker-compose-production.yml
+|4,57,25,15,1694815015,"~/docker-compose-production.yml"
 
 # Jumplist (newest first):
+-'  102  2  ~/server/app.js
+|4,39,102,2,1695062086,"~/server/app.js"
+-'  43  25  ~/server/app.js
+|4,39,43,25,1695062008,"~/server/app.js"
+-'  28  2  ~/client/src/scenes/Layout/index.jsx
+|4,39,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
+-'  28  2  ~/client/src/scenes/Layout/index.jsx
+|4,39,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
+-'  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,39,1,0,1695061829,"~/client/src/scenes/Layout/index.jsx"
+-'  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,39,1,0,1695061829,"~/client/src/scenes/Layout/index.jsx"
+-'  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,39,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
+-'  1  0  ~/client/src/scenes/Layout/index.jsx
+|4,39,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  488  39  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  205  33  ~/client/src/scenes/MyProfile/index.jsx
+|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  1  0  ~/client/src/scenes/MyProfile/index.js
+|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
+-'  25  24  ~/docker-compose-production.yml
+|4,39,25,24,1694815589,"~/docker-compose-production.yml"
 -'  25  24  ~/docker-compose-production.yml
 |4,39,25,24,1694815589,"~/docker-compose-production.yml"
 -'  37  16  ~/docker-compose-production.yml
 |4,39,37,16,1694815556,"~/docker-compose-production.yml"
 -'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815414,"~/docker-compose-production.yml"
--'  25  15  ~/docker-compose-production.yml
-|4,39,25,15,1694815382,"~/docker-compose-production.yml"
--'  25  15  ~/docker-compose-production.yml
-|4,39,25,15,1694815015,"~/docker-compose-production.yml"
--'  14  62  ~/docker-compose-production.yml
-|4,39,14,62,1694814959,"~/docker-compose-production.yml"
--'  14  62  ~/docker-compose-production.yml
-|4,39,14,62,1694814959,"~/docker-compose-production.yml"
--'  14  62  ~/docker-compose-production.yml
-|4,39,14,62,1694814959,"~/docker-compose-production.yml"
--'  15  34  ~/docker-compose-production.yml
-|4,39,15,34,1694814528,"~/docker-compose-production.yml"
--'  15  34  ~/docker-compose-production.yml
-|4,39,15,34,1694814528,"~/docker-compose-production.yml"
--'  15  34  ~/docker-compose-production.yml
-|4,39,15,34,1694814528,"~/docker-compose-production.yml"
--'  1  0  ~/docker-compose-production.yml
-|4,39,1,0,1694814486,"~/docker-compose-production.yml"
--'  1  0  ~/docker-compose-production.yml
-|4,39,1,0,1694814486,"~/docker-compose-production.yml"
--'  1  0  ~/docker-compose-production.yml
-|4,39,1,0,1694814486,"~/docker-compose-production.yml"
--'  1  0  ~/docker-compose-production.yml
-|4,39,1,0,1694814486,"~/docker-compose-production.yml"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  40  0  ~/Makefile
-|4,39,40,0,1694813812,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  24  68  ~/Makefile
-|4,39,24,68,1694813641,"~/Makefile"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  81  76  ~/client/src/components/NotesBySubject.jsx
-|4,39,81,76,1694811939,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
--'  2  89  ~/client/src/components/NotesBySubject.jsx
-|4,39,2,89,1694811902,"~/client/src/components/NotesBySubject.jsx"
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  37  16  ~/docker-compose-production.yml
+|4,39,37,16,1694815556,"~/docker-compose-production.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/server/app.js
+	*	1695062084	0
+	"	102	2
+	^	102	3
+	.	110	2
+	+	43	32
+	+	52	32
+	+	111	24
+	+	43	24
+	+	110	2
+
+> ~/client/src/scenes/Layout/index.jsx
+	*	1695061957	0
+	"	28	2
+	^	28	3
+	.	97	2
+	+	1	0
+	+	32	0
+	+	97	2
+
+> ~/client/src/scenes/MyProfile/index.jsx
+	*	1695060556	0
+	"	488	39
+	^	488	40
+	.	488	39
+	+	205	33
+	+	335	21
+	+	488	39
+
+> ~/client/src/scenes/MyProfile/index.js
+	*	1695060484	0
+	"	1	0
 
 > ~/docker-compose-production.yml
 	*	1694815586	0
@@ -354,16 +387,6 @@
 	+	4	0
 	+	2	22
 
-> ~/server/app.js
-	*	1694778061	0
-	"	43	25
-	^	82	25
-	.	43	24
-	+	43	32
-	+	52	32
-	+	82	24
-	+	43	24
-
 > ~/.gitignore
 	*	1694756129	0
 	"	3	3
@@ -377,14 +400,3 @@
 	^	85	34
 	.	85	33
 	+	85	33
-
-> ~/client/src/scenes/MyProfile/index.jsx
-	*	1694723705	0
-	"	205	33
-	^	205	34
-	.	205	33
-	+	205	33
-
-> ~/client/src/scenes/MyProfile/index.js
-	*	1694723642	0
-	"	1	0

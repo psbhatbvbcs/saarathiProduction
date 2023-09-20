@@ -332,7 +332,7 @@ const MyProfile = () => {
       </Container>
       <Dialog open={openDialog} onClose={handleOpenDialog}>
         <DialogTitle fontSize={"24px"}>
-          Add User
+          Edit Profile
           <IconButton style={{ float: "right" }} onClick={handleOpenDialog}>
             <CloseIcon color="red"></CloseIcon>
           </IconButton>
@@ -485,7 +485,7 @@ const MyProfile = () => {
               <CustomButton
                 backgroundColor={"#0F1B4C"}
                 color="#fff"
-                buttonText="Sign Up"
+                buttonText="Make Changes"
                 heroBtn={true}
                 type="submit"
               />
