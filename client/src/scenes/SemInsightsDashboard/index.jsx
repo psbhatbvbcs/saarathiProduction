@@ -31,9 +31,13 @@ const SemInsightsDashboard = () => {
     <StyledDashboard>
       <Title>Semester Insights</Title>
       <Typography ml={4} variant='h4'>
-        Find Useful links for textbooks, videos, and other folders here!
+        Find insights for each semesters. It's good to know before taking your next step isn't it? ;)
       </Typography>
-      <Box
+<Typography ml={4} variant="h6">
+        (All documents belong to the respective owners. We do not claim to own any of the resources provided. Please read our Terms of Use on the landing page)
+      </Typography>
+
+	  <Box
         m={"2rem"}
         display={"flex"}
         alignItems={isNonMobile ? "center" : "flex-start"}

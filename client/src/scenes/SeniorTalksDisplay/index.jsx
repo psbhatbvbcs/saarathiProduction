@@ -54,7 +54,7 @@ const SeniorTalksDisplay = ({ seniorsData }) => {
                                                     {post.title}
                                                 </Typography>
                                                 <Typography my={"10px"} variant="body1">
-                                                    Who will find it usefull?
+                                                    Who will find it useful?
                                                 </Typography>
                                                 <Typography variant="body1" color="text.secondary">
                                                     --- {post.valuable}

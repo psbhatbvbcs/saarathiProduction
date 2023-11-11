@@ -81,7 +81,7 @@ const About = () => {
               }}
             >
               <Avatar
-                src={`${server}/public/files/KLE Technological University/CSE/profilePics/pranavbhat.png`}
+                src={`${server}/public/files/KLE Technological University/CSE/profilePics/Pranav Bhat_pranavbhat.png`}
                 sx={{ width: "100px", height: "100px" }}
               />
               <Typography

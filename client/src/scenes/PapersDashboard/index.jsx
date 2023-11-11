@@ -37,7 +37,12 @@ const PapersDashboard = () => {
             <Typography ml={4} variant='h4'>
                 Find almost all question papers here. Ready to ace now? 
             </Typography>
-            <Box
+
+	    <Typography ml={4} variant="h6">
+        (All documents belong to the respective owners. We do not claim to own any of the resources provided. Please read our Terms of Use on the landing page)
+      </Typography>
+
+	    <Box
                 m={"2rem"}
                 display={"flex"}
                 alignItems={isNonMobile ? "center" : "flex-start"}

@@ -28,7 +28,7 @@ const SeniorTalksDashboard = () => {
     const user = useSelector((state) => state.app.user);
     const isAuthenticated = useSelector((state) => state.app.isAuthenticated);
     const seniorsData = useSelector((state) => state.app.seniorsData);
-
+	const mode = useSelector((state) => state.app.mode);
 
     const id = user.college;
 
@@ -62,10 +62,29 @@ const SeniorTalksDashboard = () => {
             <Typography ml={4} variant='h4'>
                 Need some guidance? Read what your seniors have to say! <br />Who know? You may have some revelation ;)
             </Typography>
-            <Box>
-                <SeniorTalksDisplay seniorsData={seniorsData} />
-            </Box>
-        </StyledDashboard>
+            {seniorsData.length === 0 ? (
+        <Typography
+          variant="body1"
+          fontSize={"18px"}
+          color="textSecondary"
+ml={4} 
+		    mt={3}
+
+		    sx={{
+            backgroundColor: mode === "light" ? "wheat" : "rgb(0,0,0,0.5)",
+            borderRadius: "10px",
+            width: "fit-content",
+            padding: "10px",
+          }}
+        >
+          No insights found.
+        </Typography>
+      ) : (
+        <Box>
+          <SeniorTalksDisplay seniorsData={seniorsData} />
+        </Box>
+      )}
+		</StyledDashboard>
     )
 }
 

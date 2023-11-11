@@ -145,9 +145,8 @@ const Dashboard = () => {
                   <GuidesBox>
                     <GuideBox
                       onClick={() =>
-                        window.open(
-                          "https://scribehow.com/shared/How_to_Access_Course_Notes_on_Saarathime__RGmQtEJTQxyf0kqL0YuOBQ",
-                          "_blank"
+                        navigate(
+                          "/notes-dashboard"
                         )
                       }
                     >
@@ -187,9 +186,8 @@ const Dashboard = () => {
                     </GuideBox>
                     <GuideBox
                       onClick={() =>
-                        window.open(
-                          "https://scribehow.com/shared/Accessing_Sem_Wise_Insights_on_Saarathi_Dashboard__Ae9jak-JRlSvUw4CvEWYQA",
-                          "_blank"
+                        navigate(
+                          "/sem-insights"
                         )
                       }
                     >
@@ -222,17 +220,16 @@ const Dashboard = () => {
                             my: 1,
                           }}
                         >
-                          How to find?
+                          Click to find
                         </Typography>
                         <ArrowRightAltIcon />
                       </Box>
                     </GuideBox>
                     <GuideBox
                       onClick={() =>
-                        window.open(
-                          "https://scribehow.com/shared/How_to_Access_and_Navigate_Through_Saarathi_Dashboard__EN2nFmd9S2K_5PRdOeX0KQ",
-                          "_blank"
-                        )
+                        navigate(
+                          "/senior-talks"
+			)
                       }
                     >
                       <img src={seniorIcon} alt="buy" />
@@ -264,7 +261,7 @@ const Dashboard = () => {
                             my: 1,
                           }}
                         >
-                          Where to read?
+                          Click to read
                         </Typography>
                         <ArrowRightAltIcon />
                       </Box>
@@ -308,7 +305,7 @@ const Dashboard = () => {
                       }}
                     >
                       <Avatar
-                        src={`${server}/public/files/KLE Technological University/CSE/profilePics/pranavbhat.png`}
+                        src={`${server}/public/files/KLE Technological University/CSE/profilePics/Pranav Bhat_pranavbhat.png`}
                         sx={{ width: "100px", height: "100px" }}
                       />
                       <Typography

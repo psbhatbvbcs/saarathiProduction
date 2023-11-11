@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1695062086,,"wq"
+|2,0,1699690638,,"wq"
+:q
+|2,0,1699689900,,"q"
 :qa!
 |2,0,1695061824,,"qa!"
-:q
-|2,0,1695061808,,"q"
 :w
 |2,0,1694721715,,"w"
 
@@ -34,230 +34,337 @@
 |3,1,36,0,1,0,1695061912,";"
 
 # File marks:
-'0  102  2  ~/server/app.js
-|4,48,102,2,1695062086,"~/server/app.js"
-'1  28  2  ~/client/src/scenes/Layout/index.jsx
-|4,49,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
-'2  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,50,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
-'3  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,51,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
-'4  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,52,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
-'5  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,53,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
-'6  25  24  ~/docker-compose-production.yml
-|4,54,25,24,1694815589,"~/docker-compose-production.yml"
-'7  37  16  ~/docker-compose-production.yml
-|4,55,37,16,1694815414,"~/docker-compose-production.yml"
-'8  37  16  ~/docker-compose-production.yml
-|4,56,37,16,1694815414,"~/docker-compose-production.yml"
-'9  25  15  ~/docker-compose-production.yml
-|4,57,25,15,1694815015,"~/docker-compose-production.yml"
+'0  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,48,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+'1  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,49,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'2  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,50,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'3  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,51,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'4  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,52,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'5  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,53,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'6  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,54,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'7  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,55,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'8  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,56,91,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'9  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,57,91,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
 
 # Jumplist (newest first):
--'  102  2  ~/server/app.js
-|4,39,102,2,1695062086,"~/server/app.js"
--'  43  25  ~/server/app.js
-|4,39,43,25,1695062008,"~/server/app.js"
--'  28  2  ~/client/src/scenes/Layout/index.jsx
-|4,39,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
--'  28  2  ~/client/src/scenes/Layout/index.jsx
-|4,39,28,2,1695061962,"~/client/src/scenes/Layout/index.jsx"
--'  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,39,1,0,1695061829,"~/client/src/scenes/Layout/index.jsx"
--'  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,39,1,0,1695061829,"~/client/src/scenes/Layout/index.jsx"
--'  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,39,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
--'  1  0  ~/client/src/scenes/Layout/index.jsx
-|4,39,1,0,1695061824,"~/client/src/scenes/Layout/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  488  39  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,488,39,1695060558,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  205  33  ~/client/src/scenes/MyProfile/index.jsx
-|4,39,205,33,1695060496,"~/client/src/scenes/MyProfile/index.jsx"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  1  0  ~/client/src/scenes/MyProfile/index.js
-|4,39,1,0,1695060491,"~/client/src/scenes/MyProfile/index.js"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  25  24  ~/docker-compose-production.yml
-|4,39,25,24,1694815589,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
--'  37  16  ~/docker-compose-production.yml
-|4,39,37,16,1694815556,"~/docker-compose-production.yml"
+-'  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699690576,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,70,6,1699690288,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,70,6,1699690288,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,91,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  90  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,90,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  89  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,89,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,88,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,91,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  90  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,90,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  89  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,89,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,88,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,88,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,88,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  86  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,86,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  85  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,85,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  84  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,84,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  86  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,86,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  85  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,85,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  84  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,84,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689711,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,83,7,1699689711,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
 
 # History of marks within files (newest to oldest):
+
+> ~/client/src/scenes/SemInsightsDashboard/index.jsx
+	*	1699690636	0
+	"	34	100
+	^	34	101
+	.	34	100
+	+	39	3
+	+	38	18
+	+	34	100
+
+> ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+	*	1699690321	0
+	"	72	0
+	^	72	0
+	.	72	0
+	+	87	0
+	+	86	7
+	+	31	52
+	+	73	0
+	+	70	6
+	+	80	20
+	+	72	0
+
+> ~/client/src/scenes/SemInsightsDashboard/index.js
+	*	1699689453	0
+	"	1	0
+
+> ~/client/src/scenes/ResourcesDashboard/index.jsx
+	*	1699689411	0
+	"	41	18
+	^	41	19
+	.	41	18
+	+	42	5
+	+	41	18
+
+> ~/client/src/scenes/PapersDashboard/index.jsx
+	*	1699689367	0
+	"	43	18
+	^	43	19
+	.	43	18
+	+	18	3
+	+	44	5
+	+	43	18
+
+> ~/client/src/scenes/NotesDashboard/index.jsx
+	*	1699689050	0
+	"	49	18
+	^	49	19
+	.	49	18
+	+	50	0
+	+	49	18
+
+> ~/server/controllers/user.js
+	*	1699688862	0
+	"	38	12
+	^	38	13
+	.	38	12
+	+	59	108
+	+	22	43
+	+	38	12
+
+> ~/client/src/components/TermsOfUse.jsx
+	*	1699643178	0
+	"	43	16
+	^	43	17
+	.	21	163
+	+	13	247
+	+	21	163
+
+> ~/client/src/scenes/Dashboard/index.jsx
+	*	1699642576	0
+	"	335	26
+	^	335	27
+	.	231	27
+	+	149	27
+	+	149	67
+	+	190	62
+	+	223	31
+	+	231	62
+	+	264	30
+	+	308	109
+	+	148	31
+	+	149	27
+	+	189	31
+	+	190	27
+	+	232	0
+	+	230	31
+	+	231	27
+
+> ~/client/src/components/Landing/About.jsx
+	*	1699640562	0
+	"	84	115
+	^	84	116
+	.	84	115
+	+	85	0
+	+	84	115
+
+> ~/client/src/scenes/SeniorTalksDisplay/index.js
+	*	1696935000	0
+	"	1	0
+
+> ~/client/src/scenes/SeniorTalksDisplay/index.jsx
+	*	1696933270	0
+	"	57	74
+	^	57	75
+	.	57	75
+	+	57	75
 
 > ~/server/app.js
 	*	1695062084	0
@@ -330,13 +437,6 @@
 	+	19	0
 	+	18	20
 
-> ~/server/controllers/user.js
-	*	1694781125	0
-	"	54	108
-	^	54	109
-	.	54	108
-	+	54	108
-
 > ~/server/controllers/admin.js
 	*	1694781087	0
 	"	96	28
@@ -350,13 +450,6 @@
 	^	3	46
 	.	3	45
 	+	3	45
-
-> ~/client/src/scenes/PapersDashboard/index.jsx
-	*	1694779285	0
-	"	18	3
-	^	18	4
-	.	18	3
-	+	18	3
 
 > ~/server/config/production.env
 	*	1694778943	0

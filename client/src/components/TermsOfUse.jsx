@@ -10,7 +10,7 @@ Welcome to Saarathi! By using our website, you agree to comply with and be bound
 
 **1. Use of Content**
 
-All content provided on our website is for informational purposes only. You may not copy, reproduce, distribute, or otherwise use our content without our prior written consent.
+All content provided on our website is for informational purposes only. The website acts as a middleman to already provide to the users what is already available to them, at a single place. We do not hold any claims to its validity or authenticity.
 
 **2. User Conduct**
     
@@ -18,7 +18,7 @@ You are solely responsible for your actions and conduct while using our website.
 
 **3. Intellectual Property**
     
-All intellectual property rights related to our website's content and features belong to Saarathi. You may not use our intellectual property without our permission.
+All intellectual property related to our website is a link to already available content on the internet. We do not hold any ownership of the intellectual property.
 
 **4. Disclaimer of Warranties**
     

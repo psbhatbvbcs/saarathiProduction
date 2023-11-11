@@ -19,6 +19,7 @@ export const signup = async (req, res, next) => {
         password = password.trim();
         dateOfBirth = dateOfBirth.trim();
 
+	    const kletechDomain = "@kletech.ac.in";
 
         if (name == "" || email == "" || password == "" || dateOfBirth == "") {
             return next(new ErrorHandler("Empty Input Fields", 404));
@@ -31,6 +32,10 @@ export const signup = async (req, res, next) => {
         } else if (password.length < 8) {
             return next(new ErrorHandler("Password too short", 404));
         } else {
+
+		if (!email.endsWith(kletechDomain)) {
+                return next(new ErrorHandler("Please use your college email id to sign up", 404));
+            }
             let user = await User.findOne({ email });
 
             if (user) {

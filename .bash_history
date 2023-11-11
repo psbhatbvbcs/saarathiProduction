@@ -424,3 +424,211 @@ vim index.jsx
 make build-production
 cd ../../../..
 ls
+clear
+git add .
+git commit -m "Update 21-09-2023"
+git push origin master
+clear
+exit
+clear
+ls
+cd client
+ls
+cd src
+ls
+cd scenes
+ls
+vim SeniorTalksDisplay/index.js
+vim SeniorTalksDisplay/index.jsx
+cd SeniorTalksDisplay/
+ls
+make build-production
+cd ../../..
+ls
+cd ..
+make build-production
+make run-production
+exit
+ls
+exit
+clear
+ls
+clear
+cd client
+ls
+cd src
+ls
+clear
+ls
+cd scenes/Dashboard
+ls
+vim index.jsx
+make run-production
+cd ../../../..
+ls
+make run-production
+make build-production
+make run-production
+cd client
+cd src
+ls
+cd scenes/Dashboard
+ls
+vim index.jsx
+make run-production
+cd ../../../..
+make run-production
+make build-production
+clear
+make run-production
+exit
+clear
+ls
+cd client
+ls
+cd src
+ls
+clear
+ls
+cd components
+ls
+vim TermsOfUse.jsx 
+clear
+cd ../../..
+ls
+make build-production
+clear
+make run-production
+exit
+clear
+ls
+cd client
+ls
+cd src
+ls
+cd components
+ls
+cd Landing
+ls
+vim About.jsx
+cd ..
+ls
+cd server
+ls
+cd public
+ls
+cd files
+ls
+cd KLE\ Technological\ University/
+ls
+cd CSE
+ls
+cd profilePics
+ls
+cd ../../../..
+cd ../..
+cd client/src
+ls
+cd components/
+ls
+cd Landing/
+ls
+vim About.jsx
+clear
+ls
+cd server
+ls
+cd controllers
+ls
+vim user.js
+clear
+ls
+cd ../..
+ls
+cd client
+ls
+cd src
+ls
+cd scenes
+ls
+cd NotesDashboard/
+ls
+vim index.jsx
+cd ../../../..
+ls
+make build-production
+make run-production
+ls
+clear
+cd client/src/scenes
+ls
+cd PapersDashboard/
+vim index.jsx
+cd ..
+cd ResourcesDashboard/
+ls
+vim index.jsx
+cd ..
+ls
+cd SemInsightsDashboard/
+ls
+vim index.js
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd SeniorTalksDas
+cd SeniorTalksDashboard/
+ls
+vim index.jsx
+clear
+cd ../../../..
+ls
+make build-production
+make run-production
+cd client/src/scenes
+cd SeniorTalksDashboard/
+vim index.jsx
+cd ../../../..
+make build-production
+make run-production\
+make run-production
+cd client/src/scenes
+cd SeniorTalksDashboard/
+vim index.jsx
+cd ../../../..
+make build-production
+make run-production
+cd client/src/scenes
+cd SeniorTalksDashboard/
+vim index.jsx
+cd ../../../..
+make build-production
+make run-production
+cd client/src/scenes
+ls
+cd SemInsightsDashboard/
+vim index.jsx
+ls
+cd ../../../..
+make build-production
+make run-production
+clear
+cd server/public
+ls
+cd files
+ls
+cd KLE
+cd KLE\ Technological\ University/
+ls
+cd CSE
+ls
+cd profilePics/
+ls
+mv fff_pranavbhat.png pb.png
+ls
+mv pb.png Pranav Bhat_pranavbhat.png
+ls
+mv pb.png Pranav\ Bhat_pranavbhat.png
+ls
