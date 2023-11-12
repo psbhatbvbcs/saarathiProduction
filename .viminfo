@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1699690638,,"wq"
+|2,0,1699773670,,"wq"
 :q
 |2,0,1699689900,,"q"
 :qa!
@@ -34,230 +34,272 @@
 |3,1,36,0,1,0,1695061912,";"
 
 # File marks:
-'0  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,48,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
-'1  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,49,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'2  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,50,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'3  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,51,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'4  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,52,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'5  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,53,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'6  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,54,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'7  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,55,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'8  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,56,91,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'9  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,57,91,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'0  59  24  ~/server/app.js
+|4,48,59,24,1699773670,"~/server/app.js"
+'1  38  0  ~/client/src/index.css
+|4,49,38,0,1699773481,"~/client/src/index.css"
+'2  59  24  ~/server/app.js
+|4,50,59,24,1699768907,"~/server/app.js"
+'3  122  76  ~/server/controllers/user.js
+|4,51,122,76,1699768107,"~/server/controllers/user.js"
+'4  208  7  ~/server/controllers/user.js
+|4,52,208,7,1699765459,"~/server/controllers/user.js"
+'5  208  7  ~/server/controllers/user.js
+|4,53,208,7,1699765459,"~/server/controllers/user.js"
+'6  9  80  ~/client/public/index.html
+|4,54,9,80,1699726996,"~/client/public/index.html"
+'7  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
+|4,55,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+'8  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,56,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'9  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
+|4,57,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
 
 # Jumplist (newest first):
--'  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699690576,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,70,6,1699690288,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,70,6,1699690288,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699690118,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  31  52  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,31,52,1699689965,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,91,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  90  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,90,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  89  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,89,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,88,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  91  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,91,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  90  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,90,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  89  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,89,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,88,7,1699689933,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,88,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  88  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,88,7,1699689900,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  86  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,86,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  85  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,85,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  84  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,84,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  86  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,86,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  85  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,85,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  84  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,84,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689878,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689711,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  83  7  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,83,7,1699689711,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,39,1,0,1699689685,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  38  18  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,38,18,1699689474,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
--'  1  0  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,39,1,0,1699689460,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
+-'  59  24  ~/server/app.js
+|4,39,59,24,1699773670,"~/server/app.js"
+-'  38  0  ~/client/src/index.css
+|4,39,38,0,1699773481,"~/client/src/index.css"
+-'  38  0  ~/client/src/index.css
+|4,39,38,0,1699773481,"~/client/src/index.css"
+-'  1  0  ~/client/src/index.css
+|4,39,1,0,1699773467,"~/client/src/index.css"
+-'  1  0  ~/client/src/index.css
+|4,39,1,0,1699773467,"~/client/src/index.css"
+-'  59  24  ~/server/app.js
+|4,39,59,24,1699768907,"~/server/app.js"
+-'  59  24  ~/server/app.js
+|4,39,59,24,1699768907,"~/server/app.js"
+-'  102  2  ~/server/app.js
+|4,39,102,2,1699768888,"~/server/app.js"
+-'  102  2  ~/server/app.js
+|4,39,102,2,1699768888,"~/server/app.js"
+-'  102  2  ~/server/app.js
+|4,39,102,2,1699768888,"~/server/app.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  122  76  ~/server/controllers/user.js
+|4,39,122,76,1699768107,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699768064,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  208  7  ~/server/controllers/user.js
+|4,39,208,7,1699765459,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  38  12  ~/server/controllers/user.js
+|4,39,38,12,1699765368,"~/server/controllers/user.js"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  9  80  ~/client/public/index.html
+|4,39,9,80,1699726996,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  1  0  ~/client/public/index.html
+|4,39,1,0,1699726978,"~/client/public/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/server/app.js
+	*	1699773668	0
+	"	59	24
+	^	59	25
+	.	59	24
+	+	43	32
+	+	52	32
+	+	111	24
+	+	43	24
+	+	110	2
+	+	60	0
+	+	59	24
+
+> ~/client/src/index.css
+	*	1699773477	0
+	"	38	0
+	^	38	0
+	.	37	1
+	+	21	0
+	+	37	1
+
+> ~/server/controllers/user.js
+	*	1699768104	0
+	"	122	76
+	^	122	77
+	.	122	76
+	+	59	108
+	+	22	43
+	+	38	12
+	+	56	12
+	+	59	63
+	+	125	7
+	+	137	8
+	+	122	76
+
+> ~/client/public/index.html
+	*	1699726994	0
+	"	9	80
+	^	9	81
+	.	9	80
+	+	9	80
 
 > ~/client/src/scenes/SemInsightsDashboard/index.jsx
 	*	1699690636	0
@@ -310,15 +352,6 @@
 	+	50	0
 	+	49	18
 
-> ~/server/controllers/user.js
-	*	1699688862	0
-	"	38	12
-	^	38	13
-	.	38	12
-	+	59	108
-	+	22	43
-	+	38	12
-
 > ~/client/src/components/TermsOfUse.jsx
 	*	1699643178	0
 	"	43	16
@@ -365,17 +398,6 @@
 	^	57	75
 	.	57	75
 	+	57	75
-
-> ~/server/app.js
-	*	1695062084	0
-	"	102	2
-	^	102	3
-	.	110	2
-	+	43	32
-	+	52	32
-	+	111	24
-	+	43	24
-	+	110	2
 
 > ~/client/src/scenes/Layout/index.jsx
 	*	1695061957	0

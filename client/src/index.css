@@ -18,3 +18,21 @@ body,
     padding: 0;
     box-sizing: border-box;
 }
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0, 0.2);
+  border-radius: 25px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(0, 0, 0, 0.3);
+}
+

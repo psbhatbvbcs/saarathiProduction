@@ -632,3 +632,47 @@ mv pb.png Pranav Bhat_pranavbhat.png
 ls
 mv pb.png Pranav\ Bhat_pranavbhat.png
 ls
+clear
+git add .
+git commit -m "terms of use, ownership update"
+git push origin master
+clear
+exit
+clear
+ls
+cd client
+ls
+cd public
+ls
+vim index.html
+cd ../..
+exit
+clear
+cd server
+ls
+cd controllers
+ls
+vim user.js
+cd ../..
+make build-production
+clear
+make run-production
+clear
+cd server
+ls
+vim app.js
+cd ..
+make build-production
+make run-production
+exit
+clear
+cd server
+ls
+cd controllers
+ls
+vim user.js
+cd ../..
+ls
+make build-production
+clear
+make run-production

@@ -53,10 +53,10 @@ export const signup = async (req, res, next) => {
 
             user = await User.create({ name, email, password: hashedPassword, verified: false, dateOfBirth, college: college._id });
 
-            sendVerificationEmail(user, res);
+            
             res.status(201).json({
                 success: true,
-                message: "Registered Successfully! Please verify your email using the link sent to your inbox" });
+                message: "Registered Successfully! Please Log In" });
         }
     } catch (error) {
         next(error);
@@ -119,12 +119,10 @@ export const signin = async (req, res, next) => {
         let user = await User.findOne({ email }).select("+password");
 
         if (!user) {
-            return next(new ErrorHandler("Invalid Email or Password Entered", 404));
+            return next(new ErrorHandler("User doesn't exist. Please sign up.", 404));
         }
 
-        if (!user.verified) {
-            return next(new ErrorHandler("Email hasn't been verified yet. Check your inbox", 404));
-        } else {
+       
             const isMatch = await bcrypt.compare(password, user.password);
 
             if (!isMatch) {
@@ -136,7 +134,7 @@ export const signin = async (req, res, next) => {
 
             sendCookie(userData, res, `Welcome back, ${userData.name}`, 201)
 
-        }
+        
     } catch (error) {
         next(error);
     }

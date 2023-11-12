@@ -56,7 +56,7 @@ const io = new Server(server, {
 });
 
 const onlineUsers = new Map();
-const maxOnlineUsers = 20; // Maximum number of online users allowed
+const maxOnlineUsers = 75; // Maximum number of online users allowed
 const userActivityTimeout = 60 * 31 * 1000; // 31 minute (adjust as needed)
 
 function removeInactiveUsers() {
