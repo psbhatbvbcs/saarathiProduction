@@ -12,13 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1699773670,,"wq"
+|2,0,1699881498,,"wq"
+:w
+|2,0,1699874110,,"w"
 :q
-|2,0,1699689900,,"q"
+|2,0,1699863249,,"q"
 :qa!
 |2,0,1695061824,,"qa!"
-:w
-|2,0,1694721715,,"w"
 
 # Search String History (newest to oldest):
 
@@ -34,230 +34,276 @@
 |3,1,36,0,1,0,1695061912,";"
 
 # File marks:
-'0  59  24  ~/server/app.js
-|4,48,59,24,1699773670,"~/server/app.js"
-'1  38  0  ~/client/src/index.css
-|4,49,38,0,1699773481,"~/client/src/index.css"
-'2  59  24  ~/server/app.js
-|4,50,59,24,1699768907,"~/server/app.js"
-'3  122  76  ~/server/controllers/user.js
-|4,51,122,76,1699768107,"~/server/controllers/user.js"
-'4  208  7  ~/server/controllers/user.js
-|4,52,208,7,1699765459,"~/server/controllers/user.js"
-'5  208  7  ~/server/controllers/user.js
-|4,53,208,7,1699765459,"~/server/controllers/user.js"
-'6  9  80  ~/client/public/index.html
-|4,54,9,80,1699726996,"~/client/public/index.html"
-'7  34  100  ~/client/src/scenes/SemInsightsDashboard/index.jsx
-|4,55,34,100,1699690638,"~/client/src/scenes/SemInsightsDashboard/index.jsx"
-'8  72  0  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,56,72,0,1699690323,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
-'9  70  6  ~/client/src/scenes/SeniorTalksDashboard/index.jsx
-|4,57,70,6,1699690153,"~/client/src/scenes/SeniorTalksDashboard/index.jsx"
+'0  107  32  ~/client/src/components/Landing/Footer.jsx
+|4,48,107,32,1699881498,"~/client/src/components/Landing/Footer.jsx"
+'1  67  51  ~/client/src/components/Landing/Details.jsx
+|4,49,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
+'2  9  28  ~/server/features/features.js
+|4,50,9,28,1699874130,"~/server/features/features.js"
+'3  39  10  ~/client/src/jsData/Subjects.js
+|4,51,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+'4  1  0  ~/client/src/jsData/Subjects.jsx
+|4,52,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+'5  343  0  ~/client/src/scenes/Register/index.jsx
+|4,53,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+'6  59  24  ~/server/app.js
+|4,54,59,24,1699773670,"~/server/app.js"
+'7  38  0  ~/client/src/index.css
+|4,55,38,0,1699773481,"~/client/src/index.css"
+'8  59  24  ~/server/app.js
+|4,56,59,24,1699768907,"~/server/app.js"
+'9  122  76  ~/server/controllers/user.js
+|4,57,122,76,1699768107,"~/server/controllers/user.js"
 
 # Jumplist (newest first):
--'  59  24  ~/server/app.js
-|4,39,59,24,1699773670,"~/server/app.js"
--'  38  0  ~/client/src/index.css
-|4,39,38,0,1699773481,"~/client/src/index.css"
--'  38  0  ~/client/src/index.css
-|4,39,38,0,1699773481,"~/client/src/index.css"
--'  1  0  ~/client/src/index.css
-|4,39,1,0,1699773467,"~/client/src/index.css"
--'  1  0  ~/client/src/index.css
-|4,39,1,0,1699773467,"~/client/src/index.css"
--'  59  24  ~/server/app.js
-|4,39,59,24,1699768907,"~/server/app.js"
--'  59  24  ~/server/app.js
-|4,39,59,24,1699768907,"~/server/app.js"
--'  102  2  ~/server/app.js
-|4,39,102,2,1699768888,"~/server/app.js"
--'  102  2  ~/server/app.js
-|4,39,102,2,1699768888,"~/server/app.js"
--'  102  2  ~/server/app.js
-|4,39,102,2,1699768888,"~/server/app.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  122  76  ~/server/controllers/user.js
-|4,39,122,76,1699768107,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699768064,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  208  7  ~/server/controllers/user.js
-|4,39,208,7,1699765459,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  38  12  ~/server/controllers/user.js
-|4,39,38,12,1699765368,"~/server/controllers/user.js"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  9  80  ~/client/public/index.html
-|4,39,9,80,1699726996,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
--'  1  0  ~/client/public/index.html
-|4,39,1,0,1699726978,"~/client/public/index.html"
+-'  107  32  ~/client/src/components/Landing/Footer.jsx
+|4,39,107,32,1699881498,"~/client/src/components/Landing/Footer.jsx"
+-'  1  0  ~/client/src/components/Landing/Footer.jsx
+|4,39,1,0,1699881329,"~/client/src/components/Landing/Footer.jsx"
+-'  67  51  ~/client/src/components/Landing/Details.jsx
+|4,39,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
+-'  67  51  ~/client/src/components/Landing/Details.jsx
+|4,39,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
+-'  1  0  ~/client/src/components/Landing/Details.jsx
+|4,39,1,0,1699881211,"~/client/src/components/Landing/Details.jsx"
+-'  1  0  ~/client/src/components/Landing/Details.jsx
+|4,39,1,0,1699881211,"~/client/src/components/Landing/Details.jsx"
+-'  9  28  ~/server/features/features.js
+|4,39,9,28,1699874130,"~/server/features/features.js"
+-'  9  28  ~/server/features/features.js
+|4,39,9,28,1699874130,"~/server/features/features.js"
+-'  9  28  ~/server/features/features.js
+|4,39,9,28,1699874130,"~/server/features/features.js"
+-'  9  28  ~/server/features/features.js
+|4,39,9,28,1699874130,"~/server/features/features.js"
+-'  1  0  ~/server/features/features.js
+|4,39,1,0,1699873980,"~/server/features/features.js"
+-'  1  0  ~/server/features/features.js
+|4,39,1,0,1699873980,"~/server/features/features.js"
+-'  1  0  ~/server/features/features.js
+|4,39,1,0,1699873980,"~/server/features/features.js"
+-'  1  0  ~/server/features/features.js
+|4,39,1,0,1699873980,"~/server/features/features.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  39  10  ~/client/src/jsData/Subjects.js
+|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.js
+|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  1  0  ~/client/src/jsData/Subjects.jsx
+|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  343  0  ~/client/src/scenes/Register/index.jsx
+|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  1  0  ~/client/src/scenes/Register/index.jsx
+|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
 
 # History of marks within files (newest to oldest):
+
+> ~/client/src/components/Landing/Footer.jsx
+	*	1699881496	0
+	"	107	32
+	^	107	33
+	.	107	32
+	+	48	3
+	+	44	75
+	+	107	32
+
+> ~/client/src/components/Landing/Details.jsx
+	*	1699881313	0
+	"	67	51
+	^	67	52
+	.	68	0
+	+	62	0
+	+	61	8
+	+	51	20
+	+	68	0
+
+> ~/server/features/features.js
+	*	1699874126	0
+	"	9	28
+	^	9	29
+	.	9	28
+	+	9	28
+
+> ~/client/src/jsData/Subjects.js
+	*	1699863276	0
+	"	39	10
+	^	39	11
+	.	39	10
+	+	38	6
+	+	39	10
+
+> ~/client/src/jsData/Subjects.jsx
+	*	1699863244	0
+	"	1	0
+
+> ~/client/src/scenes/Register/index.jsx
+	*	1699792231	0
+	"	343	0
+	^	343	0
+	.	343	0
+	+	344	0
+	+	343	0
 
 > ~/server/app.js
 	*	1699773668	0

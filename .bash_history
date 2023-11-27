@@ -676,3 +676,90 @@ ls
 make build-production
 clear
 make run-production
+cd client
+ls
+clear
+ls
+cd src
+ls
+vim index.css
+cd ../..
+la
+ls
+clear
+ls
+make build-production
+ls
+clear
+ls
+cd server
+vim app.js
+cd ..
+make build-production
+make run-production
+clear
+git add .
+git commit -m "max users, removed email verification"
+git push origin master
+clear
+exit
+clear
+cd client/src
+cd scenes
+ls
+cd Register/
+ls
+vim index.jsx
+cd ../../../..
+ls
+make build-production
+make run-production
+clear
+exit
+clear
+ls
+cd client
+ls
+exit
+clear
+ls
+cd client/src
+ls
+cd jsData/
+ls
+vim Subjects.jsx
+ls
+vim Subjects.js
+cd ../../..
+ls
+make build-production
+make run-production
+clear
+ls
+cd server
+ls
+cd features
+ls
+vim features.js
+cd ../..
+ls
+make build-production
+make run-production
+clear
+exit
+clear
+ls
+cd client
+ls
+cd src
+ls
+cd components
+ls
+cd Landing
+ls
+vim Details.jsx 
+vim Footer.jsx
+cd ../../../..
+ls
+make build-production
+make run-production

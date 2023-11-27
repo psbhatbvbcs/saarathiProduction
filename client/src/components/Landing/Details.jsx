@@ -42,13 +42,29 @@ const Details = () => {
   return (
     <Box sx={{ py: isNonMobile ? 5 : 1, bgcolor: "#F5FAFE" }}>
       <Container>
-        <CustomBox>
+<Box
+            sx={{
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
+                mb: 6,
+            }}
+        >
+            <div style={{
+                width: "5%",
+                height: "5px",
+                backgroundColor: "#000339",
+                margin: "0 auto"
+            }}>
+            </div>
+	  </Box>
+	  <CustomBox>
           <ImgContainer>
             <img src={houseCard} alt="house" style={{ width: "100%" }} />
           </ImgContainer>
 
           <Box width={isNonMobile ? "60%" : "100%"}>
-            <Divider />
             <Typography
               sx={{
                 fontSize: "35px",

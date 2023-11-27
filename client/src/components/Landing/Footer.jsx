@@ -39,6 +39,13 @@ const Footer = () => {
     },
   }));
 
+	const openInstagramProfile = () => {
+    // Replace 'username' with the actual Instagram username you want to link to
+    const instagramProfileUrl = 'https://www.instagram.com/saarathi.official';
+
+    // Open Instagram profile in a new window
+    window.open(instagramProfileUrl, '_blank');
+  };
 
   const navigate = useNavigate();
 
@@ -97,6 +104,7 @@ const Footer = () => {
                 height={"20px"}
                 alt="twitterIcon"
                 style={{ cursor: "pointer" }}
+	  onClick={openInstagramProfile}
               />
             </IconBox>
           </Box>

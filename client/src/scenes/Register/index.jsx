@@ -339,8 +339,9 @@ const RegisterPage = () => {
 
               <TextFieldWrapper
                 label="Confirm Password"
-                type={"password"}
-                variant="filled"
+                type={passwordVisible ? "text" : "password"}
+
+		  variant="filled"
                 id='confirmPassword'
                 name='confirmPassword'
                 value={values.confirmPassword}
