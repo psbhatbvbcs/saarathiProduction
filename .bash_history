@@ -763,3 +763,13 @@ cd ../../../..
 ls
 make build-production
 make run-production
+clear
+git add.
+git add .
+git status
+git push
+git push origin master
+git commit -m "new updates"
+git push origin master
+clear
+exit
