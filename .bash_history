@@ -773,3 +773,41 @@ git commit -m "new updates"
 git push origin master
 clear
 exit
+clear
+ls
+git status
+git add .
+git commit -m "dec 4"
+clear
+git push origin master
+clear
+exit
+clear
+ls
+cd client
+ls
+vim .env
+clear
+ls
+cd server
+ls
+vim app.js
+vim .env
+vim Dockerfile 
+vim Makefile
+cd config
+clear
+ls
+vim production.env 
+ls
+cd ..
+ls
+vim package.json
+cd ../client
+ls
+vim Dockerfile.production 
+vim Makefile 
+vim Caddyfile.production 
+clear
+cd ..
+ls

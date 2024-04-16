@@ -11,12 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1706356233,,"q"
+:1
+|2,0,1706355968,,"1"
 :wq
 |2,0,1699881498,,"wq"
 :w
 |2,0,1699874110,,"w"
-:q
-|2,0,1699863249,,"q"
 :qa!
 |2,0,1695061824,,"qa!"
 
@@ -34,230 +36,300 @@
 |3,1,36,0,1,0,1695061912,";"
 
 # File marks:
-'0  107  32  ~/client/src/components/Landing/Footer.jsx
-|4,48,107,32,1699881498,"~/client/src/components/Landing/Footer.jsx"
-'1  67  51  ~/client/src/components/Landing/Details.jsx
-|4,49,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
-'2  9  28  ~/server/features/features.js
-|4,50,9,28,1699874130,"~/server/features/features.js"
-'3  39  10  ~/client/src/jsData/Subjects.js
-|4,51,39,10,1699863280,"~/client/src/jsData/Subjects.js"
-'4  1  0  ~/client/src/jsData/Subjects.jsx
-|4,52,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
-'5  343  0  ~/client/src/scenes/Register/index.jsx
-|4,53,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
-'6  59  24  ~/server/app.js
-|4,54,59,24,1699773670,"~/server/app.js"
-'7  38  0  ~/client/src/index.css
-|4,55,38,0,1699773481,"~/client/src/index.css"
-'8  59  24  ~/server/app.js
-|4,56,59,24,1699768907,"~/server/app.js"
-'9  122  76  ~/server/controllers/user.js
-|4,57,122,76,1699768107,"~/server/controllers/user.js"
+'0  5  0  ~/client/Caddyfile.production
+|4,48,5,0,1706356233,"~/client/Caddyfile.production"
+'1  1  0  ~/client/Makefile
+|4,49,1,0,1706356188,"~/client/Makefile"
+'2  29  0  ~/client/Dockerfile.production
+|4,50,29,0,1706356144,"~/client/Dockerfile.production"
+'3  1  0  ~/server/package.json
+|4,51,1,0,1706356057,"~/server/package.json"
+'4  1  0  ~/server/config/production.env
+|4,52,1,0,1706355972,"~/server/config/production.env"
+'5  1  0  ~/server/Makefile
+|4,53,1,0,1706355934,"~/server/Makefile"
+'6  1  0  ~/server/Dockerfile
+|4,54,1,0,1706355923,"~/server/Dockerfile"
+'7  1  0  ~/server/.env
+|4,55,1,0,1706355907,"~/server/.env"
+'8  77  0  ~/server/app.js
+|4,56,77,0,1706355889,"~/server/app.js"
+'9  1  0  ~/client/.env
+|4,57,1,0,1706335509,"~/client/.env"
 
 # Jumplist (newest first):
--'  107  32  ~/client/src/components/Landing/Footer.jsx
-|4,39,107,32,1699881498,"~/client/src/components/Landing/Footer.jsx"
--'  1  0  ~/client/src/components/Landing/Footer.jsx
-|4,39,1,0,1699881329,"~/client/src/components/Landing/Footer.jsx"
--'  67  51  ~/client/src/components/Landing/Details.jsx
-|4,39,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
--'  67  51  ~/client/src/components/Landing/Details.jsx
-|4,39,67,51,1699881316,"~/client/src/components/Landing/Details.jsx"
--'  1  0  ~/client/src/components/Landing/Details.jsx
-|4,39,1,0,1699881211,"~/client/src/components/Landing/Details.jsx"
--'  1  0  ~/client/src/components/Landing/Details.jsx
-|4,39,1,0,1699881211,"~/client/src/components/Landing/Details.jsx"
--'  9  28  ~/server/features/features.js
-|4,39,9,28,1699874130,"~/server/features/features.js"
--'  9  28  ~/server/features/features.js
-|4,39,9,28,1699874130,"~/server/features/features.js"
--'  9  28  ~/server/features/features.js
-|4,39,9,28,1699874130,"~/server/features/features.js"
--'  9  28  ~/server/features/features.js
-|4,39,9,28,1699874130,"~/server/features/features.js"
--'  1  0  ~/server/features/features.js
-|4,39,1,0,1699873980,"~/server/features/features.js"
--'  1  0  ~/server/features/features.js
-|4,39,1,0,1699873980,"~/server/features/features.js"
--'  1  0  ~/server/features/features.js
-|4,39,1,0,1699873980,"~/server/features/features.js"
--'  1  0  ~/server/features/features.js
-|4,39,1,0,1699873980,"~/server/features/features.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  39  10  ~/client/src/jsData/Subjects.js
-|4,39,39,10,1699863280,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.js
-|4,39,1,0,1699863255,"~/client/src/jsData/Subjects.js"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  1  0  ~/client/src/jsData/Subjects.jsx
-|4,39,1,0,1699863249,"~/client/src/jsData/Subjects.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  343  0  ~/client/src/scenes/Register/index.jsx
-|4,39,343,0,1699792234,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
--'  1  0  ~/client/src/scenes/Register/index.jsx
-|4,39,1,0,1699792191,"~/client/src/scenes/Register/index.jsx"
+-'  5  0  ~/client/Caddyfile.production
+|4,39,5,0,1706356233,"~/client/Caddyfile.production"
+-'  1  0  ~/client/Makefile
+|4,39,1,0,1706356188,"~/client/Makefile"
+-'  1  0  ~/client/Makefile
+|4,39,1,0,1706356188,"~/client/Makefile"
+-'  29  0  ~/client/Dockerfile.production
+|4,39,29,0,1706356144,"~/client/Dockerfile.production"
+-'  29  0  ~/client/Dockerfile.production
+|4,39,29,0,1706356144,"~/client/Dockerfile.production"
+-'  29  0  ~/client/Dockerfile.production
+|4,39,29,0,1706356144,"~/client/Dockerfile.production"
+-'  29  0  ~/client/Dockerfile.production
+|4,39,29,0,1706356144,"~/client/Dockerfile.production"
+-'  1  0  ~/client/Dockerfile.production
+|4,39,1,0,1706356078,"~/client/Dockerfile.production"
+-'  1  0  ~/client/Dockerfile.production
+|4,39,1,0,1706356078,"~/client/Dockerfile.production"
+-'  1  0  ~/client/Dockerfile.production
+|4,39,1,0,1706356078,"~/client/Dockerfile.production"
+-'  1  0  ~/client/Dockerfile.production
+|4,39,1,0,1706356078,"~/client/Dockerfile.production"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/package.json
+|4,39,1,0,1706356057,"~/server/package.json"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  1  0  ~/server/config/production.env
+|4,39,1,0,1706355972,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  4  24  ~/server/config/production.env
+|4,39,4,24,1706355944,"~/server/config/production.env"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Makefile
+|4,39,1,0,1706355934,"~/server/Makefile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
+-'  1  0  ~/server/Dockerfile
+|4,39,1,0,1706355923,"~/server/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/client/Caddyfile.production
+	*	1706356192	0
+	"	5	0
+	^	5	0
+	.	2	22
+	+	1	18
+	+	1	48
+	+	1	59
+	+	1	43
+	+	1	0
+	+	1	17
+	+	1	230
+	+	1	209
+	+	1	27
+	+	1	244
+	+	1	175
+	+	1	82
+	+	20	1
+	+	4	0
+	+	2	22
+
+> ~/client/Makefile
+	*	1706356157	0
+	"	1	0
+
+> ~/client/Dockerfile.production
+	*	1706356142	0
+	"	29	0
+
+> ~/server/package.json
+	*	1706355984	0
+	"	1	0
+
+> ~/server/config/production.env
+	*	1706355968	0
+	"	1	0
+	^	4	25
+	.	4	24
+	+	5	48
+	+	4	24
+
+> ~/server/Makefile
+	*	1706355931	0
+	"	1	0
+
+> ~/server/Dockerfile
+	*	1706355919	0
+	"	1	0
+
+> ~/server/.env
+	*	1706355904	0
+	"	1	0
+
+> ~/server/app.js
+	*	1706355888	0
+	"	77	0
+	^	59	25
+	.	59	24
+	+	43	32
+	+	52	32
+	+	111	24
+	+	43	24
+	+	110	2
+	+	60	0
+	+	59	24
+
+> ~/client/.env
+	*	1706335505	0
+	"	1	0
 
 > ~/client/src/components/Landing/Footer.jsx
 	*	1699881496	0
@@ -304,19 +376,6 @@
 	.	343	0
 	+	344	0
 	+	343	0
-
-> ~/server/app.js
-	*	1699773668	0
-	"	59	24
-	^	59	25
-	.	59	24
-	+	43	32
-	+	52	32
-	+	111	24
-	+	43	24
-	+	110	2
-	+	60	0
-	+	59	24
 
 > ~/client/src/index.css
 	*	1699773477	0
@@ -518,35 +577,6 @@
 	^	3	46
 	.	3	45
 	+	3	45
-
-> ~/server/config/production.env
-	*	1694778943	0
-	"	4	24
-	^	4	25
-	.	4	24
-	+	5	48
-	+	4	24
-
-> ~/client/Caddyfile.production
-	*	1694778761	0
-	"	5	0
-	^	5	0
-	.	2	22
-	+	1	18
-	+	1	48
-	+	1	59
-	+	1	43
-	+	1	0
-	+	1	17
-	+	1	230
-	+	1	209
-	+	1	27
-	+	1	244
-	+	1	175
-	+	1	82
-	+	20	1
-	+	4	0
-	+	2	22
 
 > ~/.gitignore
 	*	1694756129	0
