@@ -811,3 +811,8 @@ vim Caddyfile.production
 clear
 cd ..
 ls
+git status
+git add .
+git commit -m "april 2024 commit"
+git branch
+git push origin master
