@@ -816,3 +816,15 @@ git add .
 git commit -m "april 2024 commit"
 git branch
 git push origin master
+clear
+git status
+ls
+git add .
+git commit -m "may 1 update"
+git push origin main
+git push origin
+git push origin master
+clear
+ls
+cd client
+ls
